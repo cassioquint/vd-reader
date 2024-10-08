@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+
+# Diretórios de build
+dist/
+build/
+
+# Ambiente
+.env
+
+# Sistema operacional e IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Git ignore
+.gitignore
