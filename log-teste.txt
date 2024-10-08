@@ -1,0 +1,2232 @@
+------------------------------------------------------------------------------------------------------------------------
+                               LOG de execução da Verificação diária dos Fontes do SIGER
+                                        Executado em VC-TASKS1-VS22 por task1
+------------------------------------------------------------------------------------------------------------------------
+Verificação de programas não utilizados (veprg.bat) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 21:22:26,833 ter, 01/out/2024
+Não foi encontrada nenhuma chamada ao programa BCNP2420.CBL
+Não foi encontrada nenhuma chamada ao programa BGRA2420.CBL
+Não foi encontrada nenhuma chamada ao programa BITT2420.CBL
+Não foi encontrada nenhuma chamada ao programa BK202420.CBL
+Não foi encontrada nenhuma chamada ao programa BK282420.CBL
+Não foi encontrada nenhuma chamada ao programa BLOT2420.CBL
+Não foi encontrada nenhuma chamada ao programa BMVI2420.CBL
+Não foi encontrada nenhuma chamada ao programa BVEC2420.CBL
+Não foi encontrada nenhuma chamada ao programa BVRZ2410.CBL
+                                             Fim: 21:48:15,625 ter, 01/out/2024
+                                                                   00:25:48,792
+.
+------------------------------------------------------------------------------------------------------------------------
+Lista programas com erro de compilação (veerr.bat) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 22:15:06,945 ter, 01/out/2024
+*** Versão 24.20a - Desenvolvimento isCOBOL
+F:\SIGER\24.20a\log\isCOBOL\SRILEG.err (01/10/2024 21:14 Task1)
+
+                                             Fim: 22:15:13,567 ter, 01/out/2024
+                                                                   00:00:06,622
+.
+------------------------------------------------------------------------------------------------------------------------
+Validações de uso da Nova Seleção Padrão (vespd.bat) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 22:15:35,347 ter, 01/out/2024
+** SLABSTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: ABS)
+** SLACUTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: ACU)
+** SLAFCTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: AFC)
+** SLAIETABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: AIE)
+** SLAVATABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: AVA)
+** SLBEGTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: BEG)
+** SLBLNTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: BLN)
+** SLCADTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: CAD)
+** SLCANTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: CAN)
+** SLCAPTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: CAP)
+** SLCARTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: CAR)
+** SLCCRTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: CCR)
+** SLCFUIVAPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: CFU)
+** SLCGEADMPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: CGE)
+** SLCGEAPRPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: CGE)
+** SLCIOTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: CIO)
+** SLCOTTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: COT)
+** SLCPPAVRPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: CPP)
+** SLCPPRIPPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: CPP)
+** SLCPSTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: CPS)
+** SLCRETABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: CRE)
+** SLCRPTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: CRP)
+** SLCTEFCAPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: CTE)
+** SLCUFTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: CUF)
+** SLCXATABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: CXA)
+** SLDAFEMBPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: DAF)
+** SLDCOTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: DCO)
+** SLDCRSFGPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: DCR)
+** SLDESTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: DES)
+** SLDFOTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: DFO)
+** SLDICTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: DIC)
+** SLDIITABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: DII)
+** SLDOCTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: DOC)
+** SLDPECUPPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: DPE)
+** SLDPEDATPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: DPE)
+** SLDPEDPEPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: DPE)
+** SLDPENOTPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: DPE)
+** SLDPERETPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: DPE)
+** SLENCTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: ENC)
+** SLEOCTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: EOC)
+** SLEVFTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: EVF)
+** SLEXATABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: EXA)
+** SLEXCTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: EXC)
+** SLEXSTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: EXS)
+** SLFICTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: FIC)
+** SLFORTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: FOR)
+** SLFPVTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: FPV)
+** SLFUNTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: FUN)
+** SLGEETABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: GEE)
+** SLGTITABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: GTI)
+** SLHRSTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: HRS)
+** SLIACTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: IAC)
+** SLIAFTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: IAF)
+** SLIAVCOMPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: IAV)
+** SLIBNTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: IBN)
+** SLICCTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: ICC)
+** SLICPTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: ICP)
+** SLIESTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: IES)
+** SLIFCTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: IFC)
+** SLIISTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: IIS)
+** SLINBTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: INB)
+** SLINFTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: INF)
+** SLIOPTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: IOP)
+** SLIPFTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: IPF)
+** SLIRCCSLPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: IRC)
+** SLIRCIRPPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: IRC)
+** SLISETABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: ISE)
+** SLISSTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: ISS)
+** SLITFTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: ITF)
+** SLITLTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: ITL)
+** SLITOTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: ITO)
+** SLITPTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: ITP)
+** SLITSTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: ITS)
+** SLIVETABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: IVE)
+** SLLACTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: LAC)
+** SLLANTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: LAN)
+** SLLCCTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: LCC)
+** SLLOATABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: LOA)
+** SLLOTTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: LOT)
+** SLLPMTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: LPM)
+** SLLPNTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: LPN)
+** SLLPRTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: LPR)
+** SLLTBTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: LTB)
+** SLMBNTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: MBN)
+** SLMETTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: MET)
+** SLMOVTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: MOV)
+** SLMPCTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: MPC)
+** SLMPFORCPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: MPF)
+** SLMPPORCPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: MPP)
+** SLMTVTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: MTV)
+** SLMVBTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: MVB)
+** SLMVCTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: MVC)
+** SLMVLTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: MVL)
+** SLMVWTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: MVW)
+** SLNFETABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: NFE)
+** SLNFSTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: NFS)
+** SLNOTTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: NOT)
+** SLOBCENEPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: OBC)
+** SLOINDCIPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: OIN)
+** SLOIOCCUPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: OIO)
+** SLOIOLOTPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: OIO)
+** SLOIOOPEPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: OIO)
+** SLOIPDCIPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: OIP)
+** SLOIPROTPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: OIP)
+** SLOLOTLAPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: OLO)
+** SLOOPACOPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: OOP)
+** SLOPIPIVPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: OPI)
+** SLOPRACTPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: OPR)
+** SLOPRECOPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: OPR)
+** SLOPRESGPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: OPR)
+** SLOPRPEQPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: OPR)
+** SLORCTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: ORC)
+** SLORDTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: ORD)
+** SLORFTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: ORF)
+** SLORITABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: ORI)
+** SLORQPIVPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: ORQ)
+** SLOSITABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: OSI)
+** SLOSMTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: OSM)
+** SLOSSTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: OSS)
+** SLOSTTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: OST)
+** SLPBNTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: PBN)
+** SLPEDTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: PED)
+** SLPLATABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: PLA)
+** SLPLCTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: PLC)
+** SLPLDTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: PLD)
+** SLPMPTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: PMP)
+** SLPNOTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: PNO)
+** SLPRGTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: PRG)
+** SLPROTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: PRO)
+** SLPTKTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: PTK)
+** SLRBRTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: RBR)
+** SLREATABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: REA)
+** SLREITABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: REI)
+** SLREOADIPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: REO)
+** SLREOAPRPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: REO)
+** SLREOATEPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: REO)
+** SLREOPRJPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: REO)
+** SLREQTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: REQ)
+** SLRESTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: RES)
+** SLREXTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: REX)
+** SLRGATABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: RGA)
+** SLRGTTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: RGT)
+** SLRIFTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: RIF)
+** SLRTRTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: RTR)
+** SLSCITABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: SCI)
+** SLSDITABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: SDI)
+** SLSKUTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: SKU)
+** SLSPFTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: SPF)
+** SLTABNBSPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: TAB)
+** SLTABNCMPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: TAB)
+** SLTBEIPRPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: TBE)
+** SLTBEREPPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: TBE)
+** SLTBESTFPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: TBE)
+** SLTEPAVAPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: TEP)
+** SLTEPCARPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: TEP)
+** SLTFETABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: TFE)
+** SLTGPINSPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: TGP)
+** SLTGPPFSPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: TGP)
+** SLTLPTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: TLP)
+** SLTRETABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: TRE)
+** SLTSETABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: TSE)
+** SLUSUTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: USU)
+** SLVAGTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: VAG)
+** SLVIFTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: VIF)
+** SLVIGSREPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: VIG)
+** SLVMEPOPPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: VME)
+** SLVPRORIPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: VPR)
+** SLVPSTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: VPS)
+** SLVRPTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: VRP)
+** SLVRRINFPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: VRR)
+** SLVRRIPFPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: VRR)
+** SLVTUTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: VTU)
+** SLVVCTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: VVC)
+** SLVWTTABPR.CPY está realizando leitura pela primeira instância  (Sigla tabela: VWT)
+Constantes utilizadas mais de 1x no carregaCC() em SLIBNTABPR.CPY:
+w78-ibntab-bibn-qlt
+
+.
+** Os comandos abaixo definem menu adicional e devem ser verificados
+SROMQL.CBL:268:              perform             sloloqtl-set-menadi,
+ESTMCM.CBL:460:              perform             slmovtab-set-menadi,
+
+** Os comandos abaixo utilizam DESABILITA-CAMPOS e devem ser verificados
+SRI110.CBL:227:           perform                slcfcdre-desabilita-campos.
+                                             Fim: 22:18:18,365 ter, 01/out/2024
+                                                                   00:02:43,018
+.
+------------------------------------------------------------------------------------------------------------------------
+Validação da geração das XFD (VeXFD.bat) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 22:18:18,527 ter, 01/out/2024
+                                             Fim: 22:18:22,738 ter, 01/out/2024
+                                                                   00:00:04,211
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação de inconsistência em ids de static e group-box (veids.bat) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 22:22:40,339 ter, 01/out/2024
+File f:\fontes\SRDI00WT.CPY:
+              10 jspl-st-etapa-id pic 9(04)       value zeros    comp-x.
+File f:\fontes\SRIM04WT.CPY:
+              10 jnig-st-titulo-id pic 9(04)      value zeros    comp-x.
+              10 jnig-st-navega-id pic 9(04)      value zeros    comp-x.
+                                             Fim: 22:22:49,867 ter, 01/out/2024
+                                                                   00:00:09,528
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação de declarações de constantes incorretas no SROSEL78.CPY (VeSroSel78.bat) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 22:22:50,034 ter, 01/out/2024
+*** A constante w78-de3-codemp é declarada mais de uma vez, verifique se deve declarar apenas em um unico local!
+*** A constante w78-de3-grpuni é declarada mais de uma vez, verifique se deve declarar apenas em um unico local!
+                                             Fim: 23:11:05,764 ter, 01/out/2024
+                                                                   00:48:15,730
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação dos campos usados no validaRead (gbexxx_ajuste.cpy) e que são usadas no where (VeValidaRead.rb) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 23:11:06,080 ter, 01/out/2024
+** CWREGCFC.CPY - Campos que estão sendo tratados no validaRead e estão configurados para serem usados no where
+     wcfc-ctre
+** YWREGPRM.CPY - Campos que estão sendo tratados no validaRead e estão configurados para serem usados no where
+     wprm-bsd
+                                             Fim: 23:15:53,471 ter, 01/out/2024
+                                                                   00:04:47,391
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação dos XMLs de Web Service da Rech-WS API (VeWebServices.bat) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 23:18:14,199 ter, 01/out/2024
+XML de Web Services F:\SIGER\24.20a\etc\WEBSERVICE_CTE400.xml é novo e ainda não foi validado
+XML de Web Services WEBSERVICE_MDFE300.xml foi modificado
+call Winmerge.bat F:\SIGER\24.20a\etc\WEBSERVICE_MDFE300.xml O:\GPD\WSVALID\WEBSERVICE_MDFE300.xml
+XML de Web Services WEBSERVICE_NFE40.xml foi modificado
+call Winmerge.bat F:\SIGER\24.20a\etc\WEBSERVICE_NFE40.xml O:\GPD\WSVALID\WEBSERVICE_NFE40.xml
+XML de Web Services WEBSERVICE_NFSE_ABACO.xml foi modificado
+call Winmerge.bat F:\SIGER\24.20a\etc\WEBSERVICE_NFSE_ABACO.xml O:\GPD\WSVALID\WEBSERVICE_NFSE_ABACO.xml
+XML de Web Services F:\SIGER\24.20a\etc\WEBSERVICE_NFSE_BETHA202.xml é novo e ainda não foi validado
+XML de Web Services WEBSERVICE_NFSE_DBSELLER.xml foi modificado
+call Winmerge.bat F:\SIGER\24.20a\etc\WEBSERVICE_NFSE_DBSELLER.xml O:\GPD\WSVALID\WEBSERVICE_NFSE_DBSELLER.xml
+XML de Web Services WEBSERVICE_NFSE_GINFES.xml foi modificado
+call Winmerge.bat F:\SIGER\24.20a\etc\WEBSERVICE_NFSE_GINFES.xml O:\GPD\WSVALID\WEBSERVICE_NFSE_GINFES.xml
+XML de Web Services WEBSERVICE_NFSE_GOVBR203.xml foi modificado
+call Winmerge.bat F:\SIGER\24.20a\etc\WEBSERVICE_NFSE_GOVBR203.xml O:\GPD\WSVALID\WEBSERVICE_NFSE_GOVBR203.xml
+XML de Web Services WEBSERVICE_NFSE_INFISC.xml foi modificado
+call Winmerge.bat F:\SIGER\24.20a\etc\WEBSERVICE_NFSE_INFISC.xml O:\GPD\WSVALID\WEBSERVICE_NFSE_INFISC.xml
+XML de Web Services WEBSERVICE_NFSE_IPM.xml foi modificado
+call Winmerge.bat F:\SIGER\24.20a\etc\WEBSERVICE_NFSE_IPM.xml O:\GPD\WSVALID\WEBSERVICE_NFSE_IPM.xml
+XML de Web Services F:\SIGER\24.20a\etc\WEBSERVICE_NFSE_IPM19.xml é novo e ainda não foi validado
+XML de Web Services F:\SIGER\24.20a\etc\WEBSERVICE_NFSE_IPM25.XML é novo e ainda não foi validado
+XML de Web Services F:\SIGER\24.20a\etc\WEBSERVICE_NFSE_IPMABRASF.xml é novo e ainda não foi validado
+XML de Web Services F:\SIGER\24.20a\etc\WEBSERVICE_NFSE_JOINVILLE204.xml é novo e ainda não foi validado
+XML de Web Services F:\SIGER\24.20a\etc\WEBSERVICE_NFSE_NACIONAL.xml é novo e ainda não foi validado
+XML de Web Services WEBSERVICE_NFSE_NOTACONTROL.xml foi modificado
+call Winmerge.bat F:\SIGER\24.20a\etc\WEBSERVICE_NFSE_NOTACONTROL.xml O:\GPD\WSVALID\WEBSERVICE_NFSE_NOTACONTROL.xml
+XML de Web Services F:\SIGER\24.20a\etc\WEBSERVICE_NFSE_PMSJP30.xml é novo e ainda não foi validado
+XML de Web Services F:\SIGER\24.20a\etc\WEBSERVICE_NFSE_PUBLICA50.xml é novo e ainda não foi validado
+XML de Web Services WEBSERVICE_NFSE_TECNOSISTEMAS.xml foi modificado
+call Winmerge.bat F:\SIGER\24.20a\etc\WEBSERVICE_NFSE_TECNOSISTEMAS.xml O:\GPD\WSVALID\WEBSERVICE_NFSE_TECNOSISTEMAS.xml
+XML de Web Services WEBSERVICE_NFSE_THEMA.xml foi modificado
+call Winmerge.bat F:\SIGER\24.20a\etc\WEBSERVICE_NFSE_THEMA.xml O:\GPD\WSVALID\WEBSERVICE_NFSE_THEMA.xml
+XML de Web Services WEBSERVICE_REMESSA_BANCARIA.xml foi modificado
+call Winmerge.bat F:\SIGER\24.20a\etc\WEBSERVICE_REMESSA_BANCARIA.xml O:\GPD\WSVALID\WEBSERVICE_REMESSA_BANCARIA.xml
+XML de Web Services WEBSERVICE_CTE300.xml foi eliminado e não existe no diretório de configurações do SIGER
+XML de Web Services WEBSERVICE_NFSE_IPM15.xml foi eliminado e não existe no diretório de configurações do SIGER
+                                             Fim: 23:18:23,862 ter, 01/out/2024
+                                                                   00:00:09,663
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação dos builds dos projetos do Gitlab que seguem o versionamento do SIGER (VeBuildGit.bat) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 23:18:24,109 ter, 01/out/2024
+Build do projeto ri-web-client na versão 24.10e disparada pelo usuário Vanduir está com status 'failed'
+Build do projeto NRISincronizacaoSigerPwe na versão 24.10g disparada pelo usuário root está com status 'failed'
+Build do projeto ri-web-client na versão 24.10g disparada pelo usuário root está com status 'failed'
+Build do projeto RechColetorGin na versão 24.10g disparada pelo usuário root está com status 'failed'
+Build do projeto NRISincronizacaoSigerPwe na versão 23.20k disparada pelo usuário root está com status 'failed'
+Build do projeto RechColetorGin na versão 23.20k disparada pelo usuário root está com status 'failed'
+Build do projeto NRISincronizacaoSigerPwe na versão 23.20l disparada pelo usuário root está com status 'failed'
+Build do projeto RechColetorGin na versão 23.20l disparada pelo usuário root está com status 'failed'
+                                             Fim: 23:18:51,321 ter, 01/out/2024
+                                                                   00:00:27,212
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação de branches antigas no GitLab (GitLabBranchesVerifier.bat) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 23:18:59,963 ter, 01/out/2024
+A branch rayon-handle do projeto ri-check-ger é antiga e o(a) Vanius é responsável por ela.
+A branch cicd do projeto ri-data-server-cli é antiga e o(a) Vanius é responsável por ela.
+A branch review do projeto ri-file-sender é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-290467 do projeto ri-sync-receiver é antiga e o(a) Vanius é responsável por ela.
+A branch crt-static do projeto ri-service é antiga e o(a) Vanius é responsável por ela.
+A branch ras-win-1252 do projeto ri-lib-data-server é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-293688 do projeto JRIUtil é antiga e o(a) Vanius é responsável por ela.
+A branch fix-docker do projeto ri-web-data-server é antiga e o(a) Vanius é responsável por ela.
+A branch index-route do projeto ri-web-data-server é antiga e o(a) Vanius é responsável por ela.
+A branch tratamento-erro do projeto ri-lib-gitlab é antiga e o(a) Vanius é responsável por ela.
+A branch exibir-chave-existente do projeto ri-click-sign é antiga e o(a) Vanius é responsável por ela.
+A branch update-deps do projeto ri-update é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-294289 do projeto ri-lib-log-utils é antiga e o(a) Vanius é responsável por ela.
+A branch multi-repo do projeto ri-git-sync é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-290233 do projeto ri-log-atu é antiga e o(a) Vanius é responsável por ela.
+A branch revert-c5202b30 do projeto ri-lib-file-utils é antiga e o(a) Vanius é responsável por ela.
+A branch rayon-handle do projeto ri-check-ger é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-293610 do projeto units é antiga e o(a) Vanius é responsável por ela.
+A branch next do projeto units é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-281320 do projeto riatpg é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-293435 do projeto riconcha é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-296683 do projeto riconcha é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-296904 do projeto riconcha é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-296908 do projeto riconcha é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-297463 do projeto riconcha é antiga e o(a) Vanius é responsável por ela.
+A branch next do projeto riconcha é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-282198 do projeto risinc é antiga e o(a) Vanius é responsável por ela.
+A branch cherry-pick-1b59936a do projeto riatsi é antiga e o(a) Vanius é responsável por ela.
+A branch cherry-pick-b4090d7d do projeto riatsi é antiga e o(a) Vanius é responsável por ela.
+A branch cherry-pick-b86d407e do projeto riatsi é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-291605 do projeto riatsi é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-291669 do projeto riatsi é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-292820 do projeto riatsi é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-292831 do projeto riatsi é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-293003 do projeto riatsi é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-293537 do projeto riatsi é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-293646 do projeto riatsi é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-294847 do projeto riatsi é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-296566 do projeto riatsi é antiga e o(a) Vanius é responsável por ela.
+A branch ficha-297484 do projeto riatsi é antiga e o(a) Vanius é responsável por ela.
+A branch fix/291296/Verificar-motivo-de-divergencia-de-valores-entre-pedido-do-PWE-x-SIGER do projeto JRIPedidoWeb é antiga e o(a) Feltes é responsável por ela.
+A branch 276064/Permitir-nao-exibir-o-nome-da-empresa-na-pagina-inicial-mesmo-sem-logo do projeto JRIPortalVagasWS é antiga e o(a) Feltes é responsável por ela.
+A branch Geracao-17-06-2022 do projeto JRIPortalVagasWS é antiga e o(a) Feltes é responsável por ela.
+A branch feature/449283/Possibilitar-a-exibicao-do-texto-do-Termo-de-consentimento-para-tratamento-dos-dados-pessoais-do-curriculo-e-aceite-do-usuario do projeto JRIPortalVagasWS é antiga e o(a) Feltes é responsável por ela.
+A branch Geracao-17-06-2022 do projeto PortalVagas é antiga e o(a) Feltes é responsável por ela.
+A branch Geracao_2022-10-28 do projeto PortalVagas é antiga e o(a) Feltes é responsável por ela.
+A branch Geracao-Front-17-06-2022 do projeto PortalComunicacao é antiga e o(a) Feltes é responsável por ela.
+A branch feature/283704/PMO-antigo-nao-aparece-na-loja do projeto PedidoMobile é antiga e o(a) Feltes é responsável por ela.
+A branch feature/283013/PMO2-Analisar-pros-e-contras-em-relacao-a-testes-de-widget-e-testes-de-integracao-no-app do projeto FRIPedidoMobile é antiga e o(a) Feltes é responsável por ela.
+A branch feature/477849/PMO2---Analisar-possibilidade-de-executar-sincronizacao-de-dados-com-o-aplicativo-minimizado do projeto FRIPedidoMobile é antiga e o(a) Feltes é responsável por ela.
+A branch prototype/487144/Disponibilizar-no-PMO-as-agendas-e-contatos-do-módulo-TEL-através-da-API-da-Rech do projeto FRIPedidoMobile é antiga e o(a) Feltes é responsável por ela.
+A branch ficha_288553 do projeto garcia é antiga e o(a) Garcia é responsável por ela.
+A branch cherry-pick-6869dc89 do projeto JRIUtil é antiga e o(a) Conceicao é responsável por ela.
+A branch cherry-pick-3e35d747 do projeto JRISiger é antiga e o(a) Conceicao é responsável por ela.
+A branch cherry-pick-3e35d747-2 do projeto JRISiger é antiga e o(a) Conceicao é responsável por ela.
+A branch geracao_20230925112823564 do projeto JRISiger é antiga e o(a) Conceicao é responsável por ela.
+A branch cherry-pick-a4e9e380-3 do projeto ri-siger é antiga e o(a) Conceicao é responsável por ela.
+A branch cherry-pick-e364278c do projeto JRIColetorWMS é antiga e o(a) Mendes é responsável por ela.
+A branch cherry-pick-d8b0e060 do projeto RechColetorGin é antiga e o(a) Mendes é responsável por ela.
+A branch cherry-pick-d8b0e060-2 do projeto RechColetorGin é antiga e o(a) Mendes é responsável por ela.
+A branch ficha_292923 do projeto JRIGeradorEntidades é antiga e o(a) Mendes é responsável por ela.
+A branch cherry-pick-4683ebc7 do projeto JRISigerApiWS é antiga e o(a) Mendes é responsável por ela.
+A branch cherry-pick-83301856 do projeto JRISigerApiWS é antiga e o(a) Mendes é responsável por ela.
+A branch geracao_20240523171748391 do projeto NRISigerApiGateway é antiga e o(a) Mendes é responsável por ela.
+A branch ficha_294660 do projeto JRIColetorWMS é antiga e o(a) Lauxen é responsável por ela.
+A branch cherry-pick-0c78889c do projeto JRISiger é antiga e o(a) Simon é responsável por ela.
+A branch cherry-pick-2a0c0833-4 do projeto JRISiger é antiga e o(a) Simon é responsável por ela.
+A branch cherry-pick-2a0c0833-5 do projeto JRISiger é antiga e o(a) Simon é responsável por ela.
+A branch cherry-pick-933c87b7 do projeto JRISiger é antiga e o(a) Simon é responsável por ela.
+A branch cherry-pick-9d7bdeb3 do projeto JRISiger é antiga e o(a) Simon é responsável por ela.
+A branch ficha_293784 do projeto JRISiger é antiga e o(a) Emily é responsável por ela.
+A branch bereta-master-patch-22493 do projeto JRIPedidoWebCore é antiga e o(a) Bereta é responsável por ela.
+A branch bereta-master-patch-37642 do projeto JRIPedidoWebCore é antiga e o(a) Bereta é responsável por ela.
+A branch bereta-master-patch-38993 do projeto JRIPedidoWebCore é antiga e o(a) Bereta é responsável por ela.
+A branch feature/287523/Ajustar-intranet-para-buscar-as-informacoes-dos-contextos-que-estao-rodando-na-OCI do projeto JRIPedidoWebIntranet é antiga e o(a) Bereta é responsável por ela.
+A branch master_old do projeto JRIWebUtils é antiga e o(a) Bereta é responsável por ela.
+A branch hotfix/262058/Download-imagem do projeto JRLCloudStorage é antiga e o(a) Bereta é responsável por ela.
+A branch Geracao_2023-06-20 do projeto JRIPortalVagasWS é antiga e o(a) Bereta é responsável por ela.
+A branch geracao_2022_09_12 do projeto JRIPortalVagasWS é antiga e o(a) Bereta é responsável por ela.
+A branch feature/273875/Alterado-versao-do-grammar do projeto JRIPortalComunicacaoWS é antiga e o(a) Bereta é responsável por ela.
+A branch feature/278924/Envio-de-Informe-de-Rendimentos-pelo-Portal-de-Funcionarios do projeto JRIPortalComunicacaoWS é antiga e o(a) Bereta é responsável por ela.
+A branch fix/286647/Superou-o-Limite-de-90-Usuarios-ao-Cadastrar-Novo-e-mail do projeto JRIPortalComunicacaoWS é antiga e o(a) Bereta é responsável por ela.
+A branch analise/44748401/Verificar-problema-de-nao-exibir-dados-de-perfis-na-tela-de-login do projeto PedidoMobile é antiga e o(a) Bereta é responsável por ela.
+A branch android do projeto PedidoMobile é antiga e o(a) Bereta é responsável por ela.
+A branch feature/262527/Validação-transportador-redespacho do projeto PedidoMobile é antiga e o(a) Bereta é responsável por ela.
+A branch feature/266425/Migrar-PMO-para-API-30-(Android-11)---Alterações-mobile- do projeto PedidoMobile é antiga e o(a) Bereta é responsável por ela.
+A branch ios do projeto PedidoMobile é antiga e o(a) Bereta é responsável por ela.
+A branch master_old do projeto PedidoMobile é antiga e o(a) Bereta é responsável por ela.
+A branch Ajustes-geracao do projeto JRIPortalFuncionariosWS é antiga e o(a) Bereta é responsável por ela.
+A branch Geracao-17-06-2022 do projeto JRIPortalFuncionariosWS é antiga e o(a) Bereta é responsável por ela.
+A branch cherry-pick-73060a34 do projeto JRIPortalFuncionariosWS é antiga e o(a) Bereta é responsável por ela.
+A branch geracao_20240614 do projeto JRIPortalFuncionariosWS é antiga e o(a) Bereta é responsável por ela.
+A branch Analise-RNS-480174 do projeto FRIPedidoMobile é antiga e o(a) Bereta é responsável por ela.
+A branch Prototipo-abstracao-package-Signature do projeto FRIPedidoMobile é antiga e o(a) Bereta é responsável por ela.
+A branch hotfix/262058/Download-imagem do projeto JRICloudStorage é antiga e o(a) Bereta é responsável por ela.
+A branch Geracao_2024_07_19 do projeto PortalBI é antiga e o(a) Korb é responsável por ela.
+A branch feature/281794/Adicionar-teste-no-pipeline-do-gitlab do projeto NRISincronizacaoSigerPwe é antiga e o(a) Voltz é responsável por ela.
+A branch cherry-pick-f89fb105-2 do projeto RechColetorGin é antiga e o(a) Almeida é responsável por ela.
+A branch homologacao do projeto API-PMO2-Interno é antiga e o(a) Cristian é responsável por ela.
+A branch Atualiza-todos-pedidos-para-cliente-1 do projeto FRIPedidoMobile é antiga e o(a) Cristian é responsável por ela.
+A branch analise/488532-01/Melhorar-processo-de-deploy-do-PMO-para-IOS do projeto FRIPedidoMobile é antiga e o(a) Cristian é responsável por ela.
+A branch analise/287708/Analisar-possibilidade-de-escrever-testes-para-repositories do projeto FRIPedidoMobile é antiga e o(a) Pinheiro é responsável por ela.
+A branch analise/467771/Analisar_possibilidade_de_escrever_testes_para_repositories do projeto FRIPedidoMobile é antiga e o(a) Pinheiro é responsável por ela.
+A branch prototipo/496535/Retirar-dependencia-BuildContext-do-RechDeviceService-e-BaseDados-do-SincronizadorManager do projeto FRIPedidoMobile é antiga e o(a) Pinheiro é responsável por ela.
+A branch Ficha_292409 do projeto NRISigerApiGateway é antiga e o(a) Lucca é responsável por ela.
+A branch Ficha_297307 do projeto NRISigerApiGateway é antiga e o(a) Dibah é responsável por ela.
+A branch teste do projeto Identador é antiga e o(a) Sandro é responsável por ela.
+A branch atualizacao_automatica_vscode do projeto Scripts é antiga e o(a) administrador é responsável por ela.
+A branch git-strategy-none-test do projeto Scripts é antiga e o(a) administrador é responsável por ela.
+                                             Fim: 23:19:15,893 ter, 01/out/2024
+                                                                   00:00:15,930
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação do status das máquinas do cluster (VeCluster.rb) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 23:19:16,228 ter, 01/out/2024
+Máquina do programador Santos () não foi inserida no cluster
+
+Máquina do programador Hartz (R7M2900-01-HAR) não foi inserida no cluster
+
+Máquina do programador Lauxen (I52600-17-LAU) não foi inserida no cluster
+
+Máquina do programador Mairon () não foi inserida no cluster
+
+Máquina do programador Pinheiro (I93700-01-PIN) não foi inserida no cluster
+
+Máquina do programador Wagner (I92800-01-WAG) não foi inserida no cluster
+
+Máquina 192.168.254.134 está no cluster ( F:\BAT\ClusterComp.dat ) mas não foi encontrada no catálogo como setor DESENVOLVIMENTO
+
+Máquina I52600-05-KAU está no cluster ( F:\BAT\ClusterComp.dat ) mas não foi encontrada no catálogo como setor DESENVOLVIMENTO
+
+Máquina R94500-03-BLO está no cluster ( F:\BAT\ClusterComp.dat ) mas não foi encontrada no catálogo como setor DESENVOLVIMENTO
+
+                                             Fim: 23:19:22,537 ter, 01/out/2024
+                                                                   00:00:06,309
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação de referência circular em fontes COBOL (VeRefCircular.rb) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 23:19:23,029 ter, 01/out/2024
+Fonte CEX031 possui ref.circular com SROCON
+Fonte CEXPRI possui ref.circular com SROCON
+Fonte EDI067 possui ref.circular com SRIDPP
+Fonte EDI074 possui ref.circular com SRIDPP
+Fonte EDI077 possui ref.circular com SRIDPP
+Fonte EDI081 possui ref.circular com SRIDPP
+Fonte EDI082 possui ref.circular com EDIFIP
+Fonte EDI093 possui ref.circular com SRHGRN
+Fonte EDI093 possui ref.circular com SRHGRP
+Fonte EDI097 possui ref.circular com SRIDPP
+Fonte EDI119 possui ref.circular com EDIFIP
+Fonte EDI119 possui ref.circular com SRIDPP
+Fonte EDI124 possui ref.circular com SRIDPP
+Fonte EDI126 possui ref.circular com SRIDPP
+Fonte EDI128 possui ref.circular com SRIDPP
+Fonte EDI130 possui ref.circular com SRIDPP
+Fonte EDI134 possui ref.circular com SRIDPP
+Fonte EDI135 possui ref.circular com SRIDPP
+Fonte EDIAPI possui ref.circular com SRIDWS
+Fonte EDIARQ possui ref.circular com EDIWSR
+Fonte EDIIDO possui ref.circular com SRIDWS
+Fonte FINAEP possui ref.circular com SRGDOC
+Fonte FOREAN possui ref.circular com SRVFOR
+Fonte FORITF possui ref.circular com SRVFOR
+Fonte FORMAN possui ref.circular com SROEPR
+Fonte FORMRO possui ref.circular com FORMSI
+Fonte FUNDAT possui ref.circular com FUNGNA
+Fonte FUNDTS possui ref.circular com FUNFDA
+Fonte FUNDTT possui ref.circular com FUNFDT
+Fonte FUNDTT possui ref.circular com FUNPRM
+Fonte FUNDTT possui ref.circular com FUNRNS
+Fonte FUNDTT possui ref.circular com FUNTIM
+Fonte FUNFII possui ref.circular com FUNFIL
+Fonte FUNFIL possui ref.circular com FUNFLT
+Fonte FUNFIL possui ref.circular com FUNFIT
+Fonte FUNFIL possui ref.circular com FUNFLR
+Fonte FUNFIL possui ref.circular com FUNFRI
+Fonte FUNFIL possui ref.circular com FUNVIW
+Fonte FUNFIL possui ref.circular com FUNFLW
+Fonte FUNFIS possui ref.circular com FUNVIW
+Fonte FUNFPE possui ref.circular com FUNPER
+Fonte FUNGOB possui ref.circular com FUNPRM
+Fonte FUNLAF possui ref.circular com FUNMET
+Fonte FUNMET possui ref.circular com SRP000
+Fonte FUNMSG possui ref.circular com SRILDH
+Fonte FUNMSG possui ref.circular com FUNPRM
+Fonte FUNMSG possui ref.circular com FUNSYS
+Fonte FUNNTI possui ref.circular com SRIGNT
+Fonte FUNPRM possui ref.circular com FUNUSU
+Fonte FUNPRM possui ref.circular com GBDCON
+Fonte FUNPRM possui ref.circular com FUNSTR
+Fonte FUNPRM possui ref.circular com FUNSYS
+Fonte FUNRFI possui ref.circular com FUNSYS
+Fonte FUNSCO possui ref.circular com FUNSYS
+Fonte FUNSYS possui ref.circular com GBDPRI
+Fonte FUNSYS possui ref.circular com SROEXT
+Fonte FUNSYS possui ref.circular com SRP000
+Fonte FUNSYS possui ref.circular com SROVIR
+Fonte FUNSYS possui ref.circular com FUNWCU
+Fonte FUNUSU possui ref.circular com FUNUSUPM
+Fonte GBDBAS possui ref.circular com GBDPRI
+Fonte GBDBAS possui ref.circular com GBDGPI
+Fonte GBDCNV possui ref.circular com GBDPRI
+Fonte GBDERR possui ref.circular com GBDPRI
+Fonte GBDGPI possui ref.circular com GBDLOG
+Fonte GBDGPI possui ref.circular com GBDPRI
+Fonte GBDLBD possui ref.circular com GBDLCK
+Fonte GBDPRI possui ref.circular com SROCBR
+Fonte GBDPRI possui ref.circular com GBDSIN
+Fonte GBDPRI possui ref.circular com GBDTRN
+Fonte GBDPRI possui ref.circular com SROMBD
+Fonte GBDREV possui ref.circular com SROBDA
+Fonte GBDSQL possui ref.circular com GBDSQT
+Fonte GBDSQT possui ref.circular com SROBDA
+Fonte GIN030 possui ref.circular com GINGNT
+Fonte GIN030 possui ref.circular com WMSGVL
+Fonte GIN030 possui ref.circular com SROCON
+Fonte GIN033 possui ref.circular com SRIC32
+Fonte GIN059 possui ref.circular com SRIC32
+Fonte GIN084 possui ref.circular com SRIC32
+Fonte GINCAN possui ref.circular com SRORRQ
+Fonte GINGIO possui ref.circular com SRIC53
+Fonte GINPMP possui ref.circular com SROCON
+Fonte LFI051 possui ref.circular com SRODAR
+Fonte LFIMRE possui ref.circular com SROCON
+Fonte OSE032 possui ref.circular com SRIC60
+Fonte OSE033 possui ref.circular com OSEMCO
+Fonte OSEGRM possui ref.circular com SRIC60
+Fonte OSEMCO possui ref.circular com SRIC60
+Fonte RANOTTAB possui ref.circular com SROCNA
+Fonte RANOTTAB possui ref.circular com SRHRAN
+Fonte RAPEDTAB possui ref.circular com SROCPA
+Fonte RAPEDTAB possui ref.circular com SRHRAP
+Fonte SLBASEOO possui ref.circular com SRTEXR
+Fonte SRDI03 possui ref.circular com SROEXT
+Fonte SRDI08 possui ref.circular com SRDI18
+Fonte SRFATA possui ref.circular com SRVGEE
+Fonte SRFDMA possui ref.circular com SRVAFA
+Fonte SRFDTE possui ref.circular com SRVGEE
+Fonte SRFEPI possui ref.circular com SRIC13
+Fonte SRFFEF possui ref.circular com SRVAFA
+Fonte SRFFEF possui ref.circular com SRVFIC
+Fonte SRFGEE possui ref.circular com SRFGXT
+Fonte SRFMFE possui ref.circular com SRIC51
+Fonte SRFSAL possui ref.circular com SRVMVP
+Fonte SRGDOC possui ref.circular com SRGGIB
+Fonte SRGDOC possui ref.circular com SRIBOR
+Fonte SRGEVD possui ref.circular com SRI109
+Fonte SRH005 possui ref.circular com SRHCNF
+Fonte SRHCNF possui ref.circular com SRI028
+Fonte SRHGCV possui ref.circular com SRHMPF
+Fonte SRHGEN possui ref.circular com SRHMNF
+Fonte SRHGEN possui ref.circular com SRHMPF
+Fonte SRHGRN possui ref.circular com SRHMVN
+Fonte SRHGRP possui ref.circular com SRHMVP
+Fonte SRHMNF possui ref.circular com SROCON
+Fonte SRHMPF possui ref.circular com SROCON
+Fonte SRHNFC possui ref.circular com SRHNFE
+Fonte SRHVPN possui ref.circular com SRINES
+Fonte SRI018 possui ref.circular com SRIDSA
+Fonte SRI061 possui ref.circular com SRI122
+Fonte SRI061 possui ref.circular com SRIC09
+Fonte SRI061 possui ref.circular com SRIGTI
+Fonte SRI061 possui ref.circular com SRILFO
+Fonte SRI061 possui ref.circular com SRO005
+Fonte SRI063 possui ref.circular com SRI078
+Fonte SRI109 possui ref.circular com SRI115
+Fonte SRI109 possui ref.circular com SRIBOR
+Fonte SRI109 possui ref.circular com SRO073
+Fonte SRI109 possui ref.circular com SROADT
+Fonte SRI109 possui ref.circular com SRODAR
+Fonte SRI109 possui ref.circular com SROFOB
+Fonte SRI109 possui ref.circular com SRORCO
+Fonte SRI146 possui ref.circular com SROGRF
+Fonte SRIAGS possui ref.circular com SROAGC
+Fonte SRIAQE possui ref.circular com SRICER
+Fonte SRIAQE possui ref.circular com SRO005
+Fonte SRIC09 possui ref.circular com SRIMCC
+Fonte SRIC09 possui ref.circular com SROCON
+Fonte SRIC10 possui ref.circular com SRIMCP
+Fonte SRIC10 possui ref.circular com SROCON
+Fonte SRIC10 possui ref.circular com SRODPR
+Fonte SRIC10 possui ref.circular com SROMCF
+Fonte SRIC13 possui ref.circular com SROCON
+Fonte SRIC18 possui ref.circular com SROCON
+Fonte SRIC32 possui ref.circular com SROCON
+Fonte SRIC49 possui ref.circular com SROCON
+Fonte SRIC51 possui ref.circular com SROCON
+Fonte SRIC53 possui ref.circular com SROCON
+Fonte SRIC60 possui ref.circular com SRO080
+Fonte SRIC60 possui ref.circular com SROCON
+Fonte SRIC60 possui ref.circular com SROOSE
+Fonte SRIC60 possui ref.circular com SROVMR
+Fonte SRIC84 possui ref.circular com SROMQL
+Fonte SRIC84 possui ref.circular com SROCON
+Fonte SRICAP possui ref.circular com SRIPIX
+Fonte SRICAP possui ref.circular com SROCCO
+Fonte SRICAP possui ref.circular com TELMVP
+Fonte SRICER possui ref.circular com SRORES
+Fonte SRICER possui ref.circular com SRVENC
+Fonte SRICER possui ref.circular com SRVRES
+Fonte SRICMO possui ref.circular com SRIFRM
+Fonte SRICTE possui ref.circular com SRIEMC
+Fonte SRIDII possui ref.circular com SRO005
+Fonte SRIEID possui ref.circular com SRIRFA
+Fonte SRIEID possui ref.circular com SROVID
+Fonte SRIFPG possui ref.circular com SRIPAG
+Fonte SRIGDO possui ref.circular com SRISMO
+Fonte SRIGEA possui ref.circular com SRONSA
+Fonte SRIGEA possui ref.circular com SRONSN
+Fonte SRIGEA possui ref.circular com SRONSE
+Fonte SRIGIS possui ref.circular com SRISSC
+Fonte SRIGPR possui ref.circular com SRIREN
+Fonte SRIGUL possui ref.circular com SROVID
+Fonte SRILPX possui ref.circular com SRIPFP
+Fonte SRILPX possui ref.circular com SROVCP
+Fonte SRIMCX possui ref.circular com SRIMZC
+Fonte SRIMCX possui ref.circular com SROCON
+Fonte SRIMEX possui ref.circular com SRIMTS
+Fonte SRIMSS possui ref.circular com SRISSC
+Fonte SRIMXC possui ref.circular com SRISCX
+Fonte SRINOF possui ref.circular com SROCON
+Fonte SRIOPA possui ref.circular com SRO005
+Fonte SRIPPA possui ref.circular com SRISPV
+Fonte SRIREE possui ref.circular com SROCON
+Fonte SRIROC possui ref.circular com SRVORC
+Fonte SRISSC possui ref.circular com SROCON
+Fonte SRO005 possui ref.circular com SROEXM
+Fonte SRO005 possui ref.circular com SROPCS
+Fonte SRO005 possui ref.circular com SROREP
+Fonte SRO054 possui ref.circular com SRVORC
+Fonte SROACV possui ref.circular com SRVMOV
+Fonte SROACV possui ref.circular com SRVRES
+Fonte SROCCL possui ref.circular com SROCCM
+Fonte SROCNB possui ref.circular com SRONBN
+Fonte SROCOL possui ref.circular com SROCON
+Fonte SROCON possui ref.circular com SRORES
+Fonte SROCON possui ref.circular com TELPRT
+Fonte SROCON possui ref.circular com WMSMLP
+Fonte SROCON possui ref.circular com WMSMMO
+Fonte SROCSE possui ref.circular com SRVORC
+Fonte SROEPR possui ref.circular com SRVFOR
+Fonte SROJBR possui ref.circular com SRP000
+Fonte SROMVE possui ref.circular com SRORES
+Fonte SROMVE possui ref.circular com SRVMOV
+Fonte SROOCP possui ref.circular com SRVORC
+Fonte SROOSE possui ref.circular com SRVOSE
+Fonte SRORCO possui ref.circular com SRVORC
+Fonte SROREP possui ref.circular com SRORES
+Fonte SRORES possui ref.circular com SRORPF
+Fonte SRP000 possui ref.circular com SRP019
+Fonte SRP000 possui ref.circular com SRP01ACT
+Fonte SRP000 possui ref.circular com SRP01AGE
+Fonte SRP000 possui ref.circular com SRP01AGR
+Fonte SRP000 possui ref.circular com SRP01APF
+Fonte SRP000 possui ref.circular com SRP01ASC
+Fonte SRP000 possui ref.circular com SRP01ATA
+Fonte SRP000 possui ref.circular com SRP01BAN
+Fonte SRP000 possui ref.circular com SRP01CAJ
+Fonte SRP000 possui ref.circular com SRP01CAP
+Fonte SRP000 possui ref.circular com SRP01CAR
+Fonte SRP000 possui ref.circular com SRP01CCT
+Fonte SRP000 possui ref.circular com SRP01CDA
+Fonte SRP000 possui ref.circular com SRP01CDE
+Fonte SRP000 possui ref.circular com SRP01CLC
+Fonte SRP000 possui ref.circular com SRP01CNT
+Fonte SRP000 possui ref.circular com SRP01COC
+Fonte SRP000 possui ref.circular com SRP01CQL
+Fonte SRP000 possui ref.circular com SRP01CTE
+Fonte SRP000 possui ref.circular com SRP01CXA
+Fonte SRP000 possui ref.circular com SRP01DCP
+Fonte SRP000 possui ref.circular com SRP01DES
+Fonte SRP000 possui ref.circular com SRP01DPR
+Fonte SRP000 possui ref.circular com SRP01EAL
+Fonte SRP000 possui ref.circular com SRP01ECO
+Fonte SRP000 possui ref.circular com SRP01EDF
+Fonte SRP000 possui ref.circular com SRP01EDO
+Fonte SRP000 possui ref.circular com SRP01EES
+Fonte SRP000 possui ref.circular com SRP01EGC
+Fonte SRP000 possui ref.circular com SRP01ENF
+Fonte SRP000 possui ref.circular com SRP01ESB
+Fonte SRP000 possui ref.circular com SRP01FAL
+Fonte SRP000 possui ref.circular com SRP01FOC
+Fonte SRP000 possui ref.circular com SRP01FPE
+Fonte SRP000 possui ref.circular com SRP01FPR
+Fonte SRP000 possui ref.circular com SRP01FUL
+Fonte SRP000 possui ref.circular com SRP01GCP
+Fonte SRP000 possui ref.circular com SRP01GIS
+Fonte SRP000 possui ref.circular com SRP01GOU
+Fonte SRP000 possui ref.circular com SRP01GRC
+Fonte SRP000 possui ref.circular com SRP01GTR
+Fonte SRP000 possui ref.circular com SRP01HIV
+Fonte SRP000 possui ref.circular com SRP01ICM
+Fonte SRP000 possui ref.circular com SRP01IFE
+Fonte SRP000 possui ref.circular com SRP01INF
+Fonte SRP000 possui ref.circular com SRP01IPC
+Fonte SRP000 possui ref.circular com SRP01JOR
+Fonte SRP000 possui ref.circular com SRP01LED
+Fonte SRP000 possui ref.circular com SRP01LEX
+Fonte SRP000 possui ref.circular com SRP01LOC
+Fonte SRP000 possui ref.circular com SRP01MCT
+Fonte SRP000 possui ref.circular com SRP01MDP
+Fonte SRP000 possui ref.circular com SRP01MFC
+Fonte SRP000 possui ref.circular com SRP01MOE
+Fonte SRP000 possui ref.circular com SRP01MPG
+Fonte SRP000 possui ref.circular com SRP01MPN
+Fonte SRP000 possui ref.circular com SRP01MPV
+Fonte SRP000 possui ref.circular com SRP01MRE
+Fonte SRP000 possui ref.circular com SRP01MTM
+Fonte SRP000 possui ref.circular com SRP01MUN
+Fonte SRP000 possui ref.circular com SRP01NBS
+Fonte SRP000 possui ref.circular com SRP01NCM
+Fonte SRP000 possui ref.circular com SRP01NCO
+Fonte SRP000 possui ref.circular com SRP01NOC
+Fonte SRP000 possui ref.circular com SRP01ONC
+Fonte SRP000 possui ref.circular com SRP01ORA
+Fonte SRP000 possui ref.circular com SRP01PBA
+Fonte SRP000 possui ref.circular com SRP01PRC
+Fonte SRP000 possui ref.circular com SRP01PRE
+Fonte SRP000 possui ref.circular com SRP01RAL
+Fonte SRP000 possui ref.circular com SRP01RLJ
+Fonte SRP000 possui ref.circular com SRP01ROE
+Fonte SRP000 possui ref.circular com SRP01RTE
+Fonte SRP000 possui ref.circular com SRP01SAL
+Fonte SRP000 possui ref.circular com SRP01SIS
+Fonte SRP000 possui ref.circular com SRP01STC
+Fonte SRP000 possui ref.circular com SRP01TAG
+Fonte SRP000 possui ref.circular com SRP01TAP
+Fonte SRP000 possui ref.circular com SRP01TCO
+Fonte SRP000 possui ref.circular com SRP01TDD
+Fonte SRP000 possui ref.circular com SRP01TDO
+Fonte SRP000 possui ref.circular com SRP01TEM
+Fonte SRP000 possui ref.circular com SRP01TMB
+Fonte SRP000 possui ref.circular com SRP01TOB
+Fonte SRP000 possui ref.circular com SRP01TRE
+Fonte SRP000 possui ref.circular com SRP01UCC
+Fonte SRP000 possui ref.circular com SRP01URF
+Fonte SRP000 possui ref.circular com SRP01VCT
+Fonte SRP000 possui ref.circular com SRP01VES
+Fonte SRP000 possui ref.circular com SRP01ZVD
+Fonte SRP000 possui ref.circular com SRP021
+Fonte SRP000 possui ref.circular com SRP02AID
+Fonte SRP000 possui ref.circular com SRP02CCU
+Fonte SRP000 possui ref.circular com SRP02CMP
+Fonte SRP000 possui ref.circular com SRP02COF
+Fonte SRP000 possui ref.circular com SRP02COP
+Fonte SRP000 possui ref.circular com SRP02COR
+Fonte SRP000 possui ref.circular com SRP02CPT
+Fonte SRP000 possui ref.circular com SRP02DCT
+Fonte SRP000 possui ref.circular com SRP02DSP
+Fonte SRP000 possui ref.circular com SRP02ELC
+Fonte SRP000 possui ref.circular com SRP02ENE
+Fonte SRP000 possui ref.circular com SRP02FAB
+Fonte SRP000 possui ref.circular com SRP02FAC
+Fonte SRP000 possui ref.circular com SRP02FBR
+Fonte SRP000 possui ref.circular com SRP02FDD
+Fonte SRP000 possui ref.circular com SRP02GPR
+Fonte SRP000 possui ref.circular com SRP02GRA
+Fonte SRP000 possui ref.circular com SRP02GRB
+Fonte SRP000 possui ref.circular com SRP02HIS
+Fonte SRP000 possui ref.circular com SRP02HOL
+Fonte SRP000 possui ref.circular com SRP02IPR
+Fonte SRP000 possui ref.circular com SRP02LOC
+Fonte SRP000 possui ref.circular com SRP02LPT
+Fonte SRP000 possui ref.circular com SRP02MAQ
+Fonte SRP000 possui ref.circular com SRP02MAR
+Fonte SRP000 possui ref.circular com SRP02MCC
+Fonte SRP000 possui ref.circular com SRP02MCO
+Fonte SRP000 possui ref.circular com SRP02PLS
+Fonte SRP000 possui ref.circular com SRP02PRA
+Fonte SRP000 possui ref.circular com SRP02RCF
+Fonte SRP000 possui ref.circular com SRP02RCP
+Fonte SRP000 possui ref.circular com SRP02RCT
+Fonte SRP000 possui ref.circular com SRP02RDA
+Fonte SRP000 possui ref.circular com SRP02REP
+Fonte SRP000 possui ref.circular com SRP02RIC
+Fonte SRP000 possui ref.circular com SRP02RIP
+Fonte SRP000 possui ref.circular com SRP02ROW
+Fonte SRP000 possui ref.circular com SRP02RRE
+Fonte SRP000 possui ref.circular com SRP02RTR
+Fonte SRP000 possui ref.circular com SRP02STF
+Fonte SRP000 possui ref.circular com SRP02TDC
+Fonte SRP000 possui ref.circular com SRP02TME
+Fonte SRP000 possui ref.circular com SRP02TOC
+Fonte SRP000 possui ref.circular com SRP02TPD
+Fonte SRP000 possui ref.circular com SRP02TPF
+Fonte SRP000 possui ref.circular com SRP02TRA
+Fonte SRP000 possui ref.circular com SRP02TRC
+Fonte SRP000 possui ref.circular com SRP02UNE
+Fonte SRP000 possui ref.circular com SRP037
+Fonte SRP000 possui ref.circular com SRP055
+Fonte SRP000 possui ref.circular com SRP058
+Fonte SRP000 possui ref.circular com SRP059
+Fonte SRP000 possui ref.circular com SRP062
+Fonte SRP000 possui ref.circular com SRP074
+Fonte SRP000 possui ref.circular com SRP076
+Fonte SRP000 possui ref.circular com SRP085
+Fonte SRP000 possui ref.circular com SRP090
+Fonte SRP000 possui ref.circular com SRP109
+Fonte SRP000 possui ref.circular com SRP110
+Fonte SRP000 possui ref.circular com SRP111
+Fonte SRP000 possui ref.circular com SRP114
+Fonte SRP000 possui ref.circular com SRP129
+Fonte SRP000 possui ref.circular com SRP133
+Fonte SRP000 possui ref.circular com SRP141
+Fonte SRP000 possui ref.circular com SRP145
+Fonte SRP000 possui ref.circular com SRP168
+Fonte SRP000 possui ref.circular com SRP176
+Fonte SRP000 possui ref.circular com SRPACF
+Fonte SRP000 possui ref.circular com SRPACO
+Fonte SRP000 possui ref.circular com SRPACP
+Fonte SRP000 possui ref.circular com SRPACU
+Fonte SRP000 possui ref.circular com SRPAFA
+Fonte SRP000 possui ref.circular com SRPAGE
+Fonte SRP000 possui ref.circular com SRPAMO
+Fonte SRP000 possui ref.circular com SRPAMT
+Fonte SRP000 possui ref.circular com SRPAPI
+Fonte SRP000 possui ref.circular com SRPAPO
+Fonte SRP000 possui ref.circular com SRPAPP
+Fonte SRP000 possui ref.circular com SRPASO
+Fonte SRP000 possui ref.circular com SRPBEG
+Fonte SRP000 possui ref.circular com SRPBOR
+Fonte SRP000 possui ref.circular com SRPBRA
+Fonte SRP000 possui ref.circular com SRPCAD
+Fonte SRP000 possui ref.circular com SRPCAF
+Fonte SRP000 possui ref.circular com SRPCAM
+Fonte SRP000 possui ref.circular com SRPCAN
+Fonte SRP000 possui ref.circular com SRPCAP
+Fonte SRP000 possui ref.circular com SRPCAR
+Fonte SRP000 possui ref.circular com SRPCAT
+Fonte SRP000 possui ref.circular com SRPCBO
+Fonte SRP000 possui ref.circular com SRPCCA
+Fonte SRP000 possui ref.circular com SRPCDC
+Fonte SRP000 possui ref.circular com SRPCEX
+Fonte SRP000 possui ref.circular com SRPCNP
+Fonte SRP000 possui ref.circular com SRPCNR
+Fonte SRP000 possui ref.circular com SRPCOT
+Fonte SRP000 possui ref.circular com SRPCPS
+Fonte SRP000 possui ref.circular com SRPCRE
+Fonte SRP000 possui ref.circular com SRPCSE
+Fonte SRP000 possui ref.circular com SRPCSR
+Fonte SRP000 possui ref.circular com SRPCTE
+Fonte SRP000 possui ref.circular com SRPCTR
+Fonte SRP000 possui ref.circular com SRPCTT
+Fonte SRP000 possui ref.circular com SRPCUP
+Fonte SRP000 possui ref.circular com SRPCVE
+Fonte SRP000 possui ref.circular com SRPCXA
+Fonte SRP000 possui ref.circular com SRPCXP
+Fonte SRP000 possui ref.circular com SRPDAR
+Fonte SRP000 possui ref.circular com SRPDCR
+Fonte SRP000 possui ref.circular com SRPDEI
+Fonte SRP000 possui ref.circular com SRPDFU
+Fonte SRP000 possui ref.circular com SRPDIG
+Fonte SRP000 possui ref.circular com SRPDII
+Fonte SRP000 possui ref.circular com SRPDIT
+Fonte SRP000 possui ref.circular com SRPDNF
+Fonte SRP000 possui ref.circular com SRPDOC
+Fonte SRP000 possui ref.circular com SRPEFU
+Fonte SRP000 possui ref.circular com SRPEMP
+Fonte SRP000 possui ref.circular com SRPEQP
+Fonte SRP000 possui ref.circular com SRPESF
+Fonte SRP000 possui ref.circular com SRPEVE
+Fonte SRP000 possui ref.circular com SRPFIC
+Fonte SRP000 possui ref.circular com SRPFID
+Fonte SRP000 possui ref.circular com SRPFIP
+Fonte SRP000 possui ref.circular com SRPFOR
+Fonte SRP000 possui ref.circular com SRPFPV
+Fonte SRP000 possui ref.circular com SRPFRI
+Fonte SRP000 possui ref.circular com SRPFUN
+Fonte SRP000 possui ref.circular com SRPFXS
+Fonte SRP000 possui ref.circular com SRPGNR
+Fonte SRP000 possui ref.circular com SRPGRC
+Fonte SRP000 possui ref.circular com SRPGRG
+Fonte SRP000 possui ref.circular com SRPGRM
+Fonte SRP000 possui ref.circular com SRPHIS
+Fonte SRP000 possui ref.circular com SRPIBN
+Fonte SRP000 possui ref.circular com SRPICP
+Fonte SRP000 possui ref.circular com SRPIES
+Fonte SRP000 possui ref.circular com SRPILE
+Fonte SRP000 possui ref.circular com SRPIND
+Fonte SRP000 possui ref.circular com SRPIRC
+Fonte SRP000 possui ref.circular com SRPISS
+Fonte SRP000 possui ref.circular com SRPITO
+Fonte SRP000 possui ref.circular com SRPITP
+Fonte SRP000 possui ref.circular com SRPIVO
+Fonte SRP000 possui ref.circular com SRPLAN
+Fonte SRP000 possui ref.circular com SRPLEM
+Fonte SRP000 possui ref.circular com SRPLIC
+Fonte SRP000 possui ref.circular com SRPLOA
+Fonte SRP000 possui ref.circular com SRPLOT
+Fonte SRP000 possui ref.circular com SRPLPC
+Fonte SRP000 possui ref.circular com SRPLPF
+Fonte SRP000 possui ref.circular com SRPLPM
+Fonte SRP000 possui ref.circular com SRPLPN
+Fonte SRP000 possui ref.circular com SRPLPR
+Fonte SRP000 possui ref.circular com SRPLTC
+Fonte SRP000 possui ref.circular com SRPMCB
+Fonte SRP000 possui ref.circular com SRPMDE
+Fonte SRP000 possui ref.circular com SRPMFC
+Fonte SRP000 possui ref.circular com SRPMLC
+Fonte SRP000 possui ref.circular com SRPMOV
+Fonte SRP000 possui ref.circular com SRPMOW
+Fonte SRP000 possui ref.circular com SRPMPF
+Fonte SRP000 possui ref.circular com SRPMPR
+Fonte SRP000 possui ref.circular com SRPMSE
+Fonte SRP000 possui ref.circular com SRPMTR
+Fonte SRP000 possui ref.circular com SRPMTV
+Fonte SRP000 possui ref.circular com SRPMVB
+Fonte SRP000 possui ref.circular com SRPMVL
+Fonte SRP000 possui ref.circular com SRPMVP
+Fonte SRP000 possui ref.circular com SRPMVT
+Fonte SRP000 possui ref.circular com SRPNBN
+Fonte SRP000 possui ref.circular com SRPNFP
+Fonte SRP000 possui ref.circular com SRPNFS
+Fonte SRP000 possui ref.circular com SRPNOF
+Fonte SRP000 possui ref.circular com SRPNOT
+Fonte SRP000 possui ref.circular com SRPNRI
+Fonte SRP000 possui ref.circular com SRPNTF
+Fonte SRP000 possui ref.circular com SRPOBV
+Fonte SRP000 possui ref.circular com SRPOCB
+Fonte SRP000 possui ref.circular com SRPOFD
+Fonte SRP000 possui ref.circular com SRPORC
+Fonte SRP000 possui ref.circular com SRPORD
+Fonte SRP000 possui ref.circular com SRPORF
+Fonte SRP000 possui ref.circular com SRPORI
+Fonte SRP000 possui ref.circular com SRPOSI
+Fonte SRP000 possui ref.circular com SRPOSM
+Fonte SRP000 possui ref.circular com SRPOSS
+Fonte SRP000 possui ref.circular com SRPPAR
+Fonte SRP000 possui ref.circular com SRPPAV
+Fonte SRP000 possui ref.circular com SRPPCA
+Fonte SRP000 possui ref.circular com SRPPCB
+Fonte SRP000 possui ref.circular com SRPPCF
+Fonte SRP000 possui ref.circular com SRPPCM
+Fonte SRP000 possui ref.circular com SRPPDP
+Fonte SRP000 possui ref.circular com SRPPEC
+Fonte SRP000 possui ref.circular com SRPPED
+Fonte SRP000 possui ref.circular com SRPPGD
+Fonte SRP000 possui ref.circular com SRPPLA
+Fonte SRP000 possui ref.circular com SRPPLD
+Fonte SRP000 possui ref.circular com SRPPMP
+Fonte SRP000 possui ref.circular com SRPPPR
+Fonte SRP000 possui ref.circular com SRPPRA
+Fonte SRP000 possui ref.circular com SRPPRD
+Fonte SRP000 possui ref.circular com SRPPRE
+Fonte SRP000 possui ref.circular com SRPPRI
+Fonte SRP000 possui ref.circular com SRPPRO
+Fonte SRP000 possui ref.circular com SRPPRT
+Fonte SRP000 possui ref.circular com SRPPSC
+Fonte SRP000 possui ref.circular com SRPRDC
+Fonte SRP000 possui ref.circular com SRPRDV
+Fonte SRP000 possui ref.circular com SRPREA
+Fonte SRP000 possui ref.circular com SRPREC
+Fonte SRP000 possui ref.circular com SRPREQ
+Fonte SRP000 possui ref.circular com SRPRES
+Fonte SRP000 possui ref.circular com SRPRIE
+Fonte SRP000 possui ref.circular com SRPRMI
+Fonte SRP000 possui ref.circular com SRPROE
+Fonte SRP000 possui ref.circular com SRPROL
+Fonte SRP000 possui ref.circular com SRPRQA
+Fonte SRP000 possui ref.circular com SRPRSE
+Fonte SRP000 possui ref.circular com SRPRSS
+Fonte SRP000 possui ref.circular com SRPSAE
+Fonte SRP000 possui ref.circular com SRPSCO
+Fonte SRP000 possui ref.circular com SRPSER
+Fonte SRP000 possui ref.circular com SRPSKU
+Fonte SRP000 possui ref.circular com SRPTBA
+Fonte SRP000 possui ref.circular com SRPTBE
+Fonte SRP000 possui ref.circular com SRPTBS
+Fonte SRP000 possui ref.circular com SRPTCA
+Fonte SRP000 possui ref.circular com SRPTEC
+Fonte SRP000 possui ref.circular com SRPTEP
+Fonte SRP000 possui ref.circular com SRPTGP
+Fonte SRP000 possui ref.circular com SRPTIC
+Fonte SRP000 possui ref.circular com SRPTLP
+Fonte SRP000 possui ref.circular com SRPTRE
+Fonte SRP000 possui ref.circular com SRPTSE
+Fonte SRP000 possui ref.circular com SRPUSU
+Fonte SRP000 possui ref.circular com SRPVAG
+Fonte SRP000 possui ref.circular com SRPVEI
+Fonte SRP000 possui ref.circular com SRPVER
+Fonte SRP000 possui ref.circular com SRPVIS
+Fonte SRP000 possui ref.circular com SRPVLE
+Fonte SRP000 possui ref.circular com SRPWSG
+Fonte SRP000 possui ref.circular com SRPWSO
+Fonte SRVFUN possui ref.circular com SRVMVP
+Fonte SRVLPN possui ref.circular com WMSCVL
+Fonte SRVLPN possui ref.circular com WMSLPN
+Fonte SRVLPN possui ref.circular com WMSREW
+Fonte SRVMBN possui ref.circular com SRVNBN
+Fonte SRVMOV possui ref.circular com WMSEST
+Fonte TACBRE possui ref.circular com WMSTAC
+Fonte TELCTT possui ref.circular com TELMCC
+Fonte TELMCP possui ref.circular com TELPPP
+Fonte TELMCP possui ref.circular com TELPRT
+Fonte WMSBLA possui ref.circular com WMSLOA
+Fonte WMSCVL possui ref.circular com WMSMVL
+Fonte WMSCVL possui ref.circular com WMSREW
+Fonte WMSEST possui ref.circular com WMSVWE
+Fonte WMSFAT possui ref.circular com WMSVWE
+Fonte WMSLFI possui ref.circular com WMSVWE
+Fonte WMSLPN possui ref.circular com WMSREW
+Fonte WMSMLP possui ref.circular com WMSMVL
+Fonte WMSREW possui ref.circular com WMSVWE
+                                             Fim: 23:19:42,174 ter, 01/out/2024
+                                                                   00:00:19,145
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação de testes unitários (VeTesteUnitario.bat) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 23:19:42,629 ter, 01/out/2024
+Resultados em F:\tmp\log\VeTesteUnitario.log 
+                                             Fim: 23:22:13,977 ter, 01/out/2024
+                                                                   00:02:31,348
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação de testes unitários (VeTesteCobol.bat) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 23:22:14,218 ter, 01/out/2024
+Picked up _JAVA_OPTIONS: -Xmx8192m -XX:+UseG1GC -XX:+UseStringDeduplication -Dcom.sun.management.jmxremote=true -Dcom.sun.management.jmxremote.port=1100 -Dcom.sun.management.jmxremote.ssl=false -Dcom.sun.management.jmxremote.authenticate=false -Djava.rmi.server.hostname=VC-TASKS1-VS22
+Picked up _JAVA_OPTIONS: -Xmx8192m -XX:+UseG1GC -XX:+UseStringDeduplication -Dcom.sun.management.jmxremote=true -Dcom.sun.management.jmxremote.port=1100 -Dcom.sun.management.jmxremote.ssl=false -Dcom.sun.management.jmxremote.authenticate=false -Djava.rmi.server.hostname=VC-TASKS1-VS22
+Picked up _JAVA_OPTIONS: -Xmx8192m -XX:+UseG1GC -XX:+UseStringDeduplication -Dcom.sun.management.jmxremote=true -Dcom.sun.management.jmxremote.port=1100 -Dcom.sun.management.jmxremote.ssl=false -Dcom.sun.management.jmxremote.authenticate=false -Djava.rmi.server.hostname=VC-TASKS1-VS22
+Picked up _JAVA_OPTIONS: -Xmx8192m -XX:+UseG1GC -XX:+UseStringDeduplication -Dcom.sun.management.jmxremote=true -Dcom.sun.management.jmxremote.port=1100 -Dcom.sun.management.jmxremote.ssl=false -Dcom.sun.management.jmxremote.authenticate=false -Djava.rmi.server.hostname=VC-TASKS1-VS22
+Picked up _JAVA_OPTIONS: -Xverify:none -Xmx8192m -XX:+UseG1GC -XX:+UseStringDeduplication -Dcom.sun.management.jmxremote=true -Dcom.sun.management.jmxremote.port=1100 -Dcom.sun.management.jmxremote.ssl=false -Dcom.sun.management.jmxremote.authenticate=false -Djava.rmi.server.hostname=VC-TASKS1-VS22
+Picked up _JAVA_OPTIONS: -Xverify:none -Xmx8192m -XX:+UseG1GC -XX:+UseStringDeduplication -Dcom.sun.management.jmxremote=true -Dcom.sun.management.jmxremote.port=1100 -Dcom.sun.management.jmxremote.ssl=false -Dcom.sun.management.jmxremote.authenticate=false -Djava.rmi.server.hostname=VC-TASKS1-VS22
+Picked up _JAVA_OPTIONS: -Xverify:none -Xmx8192m -XX:+UseG1GC -XX:+UseStringDeduplication -Dcom.sun.management.jmxremote=true -Dcom.sun.management.jmxremote.port=1100 -Dcom.sun.management.jmxremote.ssl=false -Dcom.sun.management.jmxremote.authenticate=false -Djava.rmi.server.hostname=VC-TASKS1-VS22
+                                             Fim: 00:05:44,660 qua, 02/out/2024
+                                                                   00:43:30,442
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação de regressão dos chamados do isCOBOL (TstIscEx.bat) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 00:05:44,836 qua, 02/out/2024
+Erro ao compilar programa ex1149t
+
+--S: #188 Period missing. Period Assumed. '.'; file = EX1149T.CBL, line = 17
+--E: #152 Variable has zero length: MYMAP; file = EX1149T.CBL, line = 17, col 11
+--S: #31 Expected/found token mismatch: PROCEDURE/[; file = EX1149T.CBL, line = 17, col 55
+------------------------------------------------------------------------------
+                                             Fim: 00:35:52,202 qua, 02/out/2024
+                                                                   00:30:07,366
+.
+------------------------------------------------------------------------------------------------------------------------
+Lista warnings de compilação (VeWar.bat) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 00:35:52,371 qua, 02/out/2024
+F:\SIGER\24.20a\log\iscobol\FUNDTS.war:--W: #161 Attempting to override a method without OVERRIDE: isSupported; file = F:\SIGER\24.20a\fon\FUNDTS.CBL, line = 1093, col 31 warning
+F:\SIGER\24.20a\log\iscobol\FUNDTS.war:--W: #161 Attempting to override a method without OVERRIDE: getLong; file = F:\SIGER\24.20a\fon\FUNDTS.CBL, line = 1123, col 31 warning
+F:\SIGER\24.20a\log\iscobol\FUNDTT.war:--W: #161 Attempting to override a method without OVERRIDE: isSupported; file = F:\SIGER\24.20a\fon\FUNDTT.CBL, line = 902, col 31 warning
+F:\SIGER\24.20a\log\iscobol\FUNDTT.war:--W: #161 Attempting to override a method without OVERRIDE: getLong; file = F:\SIGER\24.20a\fon\FUNDTT.CBL, line = 947, col 31 warning
+F:\SIGER\24.20a\log\iscobol\FUNPER.war:--W: #161 Attempting to override a method without OVERRIDE: isSupported; file = F:\SIGER\24.20a\fon\FUNPER.CBL, line = 976, col 31 warning
+F:\SIGER\24.20a\log\iscobol\FUNPER.war:--W: #161 Attempting to override a method without OVERRIDE: getLong; file = F:\SIGER\24.20a\fon\FUNPER.CBL, line = 998, col 31 warning
+F:\SIGER\24.20a\log\iscobol\LFI030.war:--W: #257 Dynamic items will be ignored: WITC-CAMPOS; file = F:\SIGER\24.20a\fon\LFI030.CBL, line = 477, col 34 warning
+F:\SIGER\24.20a\log\iscobol\LFI030.war:--W: #257 Dynamic items will be ignored: WITC-CAMPOS; file = F:\SIGER\24.20a\fon\LFI030.CBL, line = 579, col 19 warning
+F:\SIGER\24.20a\log\iscobol\LFI031.war:--W: #257 Dynamic items will be ignored: WITC-CAMPOS; file = F:\SIGER\24.20a\fon\LFI031.CBL, line = 339, col 34 warning
+F:\SIGER\24.20a\log\iscobol\LFI031.war:--W: #257 Dynamic items will be ignored: WITC-CAMPOS; file = F:\SIGER\24.20a\fon\LFI031.CBL, line = 446, col 19 warning
+                                             Fim: 00:35:55,924 qua, 02/out/2024
+                                                                   00:00:03,553
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação de Batchs (vebat.bat) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 00:38:05,756 qua, 02/out/2024
+[0;19;1mvariável USERNAME escrita em minúsculas!, file = F:\BAT\VerificaDesligamento.bat, line = 14[0m
+                                             Fim: 00:38:13,119 qua, 02/out/2024
+                                                                   00:00:07,363
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação de validação de Batchs (VeValBat.bat) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 00:38:13,357 qua, 02/out/2024
+Foram encontrados problemas em bats ou bats não validados. Verifique o log em F:\tmp\log\VeBat_202410020038.log
+                                             Fim: 00:50:09,936 qua, 02/out/2024
+                                                                   00:11:56,579
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação de problemas de goto inválido nos batchs (VeGoto.bat) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 00:50:10,146 qua, 02/out/2024
+Comando goto :RemoveJunction inválido no batch RecriaJunction.bat, label :CriaJunction (chamado com call)
+Comando goto :RemoveJunction inválido no batch RecriaJunction.bat, label :CriaJunction (chamado com call)
+                                             Fim: 00:50:13,999 qua, 02/out/2024
+                                                                   00:00:03,853
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação de problemas de identação nos batchs (VeScr.bat) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 00:50:14,246 qua, 02/out/2024
+*** WARNING: script com identação errada; file = F:\bat\acada20min.bat, line = 90
+*** WARNING: script com identação errada; file = F:\bat\acada20min.bat, line = 91
+*** WARNING: script com identação errada; file = F:\bat\acada20min.bat, line = 92
+                                             Fim: 00:50:39,015 qua, 02/out/2024
+                                                                   00:00:24,769
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação de uso indevido de MK-DLD (vedld.bat) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 00:51:10,116 qua, 02/out/2024
+SRIMPS.CBL:3078:              if $upper-case(w-dirval) = mk-dld or $upper-case(w-dirval) = mk-dlr
+PCARGSIG.CPY:2203:           if $upper-case(mk-dld) <> $upper-case(mk-dlr)
+                                             Fim: 00:51:15,567 qua, 02/out/2024
+                                                                   00:00:05,451
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação dos sites utilizados pela NF-e (VeNfe.bat) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 00:51:15,812 qua, 02/out/2024
+*** Foi alterado o painel de noticias do portal
+                                             Fim: 00:51:26,942 qua, 02/out/2024
+                                                                   00:00:11,130
+.
+                                                                   00:00:03,150
+.
+------------------------------------------------------------------------------------------------------------------------
+Verifica o uso de unidade de disco das versões do SIGER no F:\ (vedsk.bat) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 01:05:08,144 qua, 02/out/2024
+Release 22.20k do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 23.10g do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 23.10h do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 23.10i do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 23.10j do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 23.10k do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 23.20a do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 23.20b do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 23.20c do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 23.20d do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 23.20e do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 23.20f do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 23.20g do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 23.20h do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 23.20i do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 23.20j do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 24.10a do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 24.10b do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 24.10c do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 24.10d do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+Release 25.10a do SIGER é inativa e ainda está sendo armazenada na unidade F: com SSD
+                                             Fim: 01:05:16,710 qua, 02/out/2024
+                                                                   00:00:08,566
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação máscaras de hora que possuem separador de centésimos com ":" ao invés de "," (VeEdiHor.bat) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 01:05:16,894 qua, 02/out/2024
+
+SLTLPTABWK.CPY                  15 filler        pic x(01)       value ":".
+SLTLPTABWK.CPY               10 filler           pic x(01)       value ":".
+SLTLPTABWK.CPY               10 filler           pic x(01)       value ":".
+--
+                                             Fim: 01:08:43,725 qua, 02/out/2024
+                                                                   00:03:26,831
+.
+------------------------------------------------------------------------------------------------------------------------
+Verifica arquivos do SVN (VeSvn.bat) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 01:29:33,528 qua, 02/out/2024
+Diretório não versionado: F:\SIGER\WC\24.20a\ficha_298764\fon
+Diretório não existe: F:\SIGER\WC\24.20a\ficha_298764\rwd
+Diretório não existe: F:\SIGER\WC\24.20a\ficha_298764\dat
+Diretório não existe: F:\SIGER\WC\24.20a\ficha_298764\etc
+Diretório não existe: F:\SIGER\WC\24.20a\ficha_298764\mod
+Diretório não versionado: F:\SIGER\WC\24.20a\schulz2\fon
+Diretório não existe: F:\SIGER\WC\24.20a\schulz2\rwd
+Diretório não existe: F:\SIGER\WC\24.20a\schulz2\dat
+Diretório não existe: F:\SIGER\WC\24.20a\schulz2\etc
+Diretório não existe: F:\SIGER\WC\24.20a\schulz2\mod
+Working-Copy conceicao é mais antigo que 45 dias (14/08/2024). Diretório: F:\SIGER\WC\24.10e\conceicao
+Working-Copy arthur é mais antigo que 45 dias (16/08/2024). Diretório: F:\SIGER\WC\24.10e\arthur
+Working-Copy andre-luis é mais antigo que 45 dias (15/08/2024). Diretório: F:\SIGER\WC\24.10e\andre-luis
+Working-Copy aguiar é mais antigo que 45 dias (06/08/2024). Diretório: F:\SIGER\WC\24.10e\aguiar
+Working-Copy favero é mais antigo que 45 dias (09/08/2024). Diretório: F:\SIGER\WC\24.10e\favero
+Working-Copy ficha_297289 é mais antigo que 45 dias (31/07/2024). Diretório: F:\SIGER\WC\24.10e\ficha_297289
+Working-Copy lauxen é mais antigo que 45 dias (14/08/2024). Diretório: F:\SIGER\WC\24.10e\lauxen
+Working-Copy mauricio-f é mais antigo que 45 dias (01/08/2024). Diretório: F:\SIGER\WC\24.10e\mauricio-f
+Working-Copy leonardo é mais antigo que 45 dias (16/08/2024). Diretório: F:\SIGER\WC\24.10e\leonardo
+Working-Copy passos é mais antigo que 45 dias (14/08/2024). Diretório: F:\SIGER\WC\24.10e\passos
+Working-Copy pedro é mais antigo que 45 dias (15/08/2024). Diretório: F:\SIGER\WC\24.10e\pedro
+Working-Copy conceicao é mais antigo que 45 dias (02/05/2024). Diretório: F:\SIGER\WC\23.10l\conceicao
+Working-Copy carolina-riboli é mais antigo que 45 dias (10/07/2024). Diretório: F:\SIGER\WC\23.10l\carolina-riboli
+Working-Copy diego é mais antigo que 45 dias (25/07/2024). Diretório: F:\SIGER\WC\23.10l\diego
+Working-Copy lauxen é mais antigo que 45 dias (13/06/2024). Diretório: F:\SIGER\WC\23.10l\lauxen
+Working-Copy rns_497145 é mais antigo que 45 dias (15/08/2024). Diretório: F:\SIGER\WC\23.10l\rns_497145
+Working-Copy leonardo é mais antigo que 45 dias (14/05/2024). Diretório: F:\SIGER\WC\23.10l\leonardo
+Working-Copy strack é mais antigo que 45 dias (04/07/2024). Diretório: F:\SIGER\WC\23.10l\strack
+Working-Copy conceicao_3 é mais antigo que 45 dias (03/08/2024). Diretório: F:\SIGER\WC\DES\conceicao_3
+Working-Copy conceicao_mt é mais antigo que 45 dias (02/06/2024). Diretório: F:\SIGER\WC\DES\conceicao_mt
+Working-Copy conceicao_veccl é mais antigo que 45 dias (29/05/2024). Diretório: F:\SIGER\WC\DES\conceicao_veccl
+Working-Copy conceicao_typedef é mais antigo que 45 dias (09/06/2024). Diretório: F:\SIGER\WC\DES\conceicao_typedef
+Working-Copy conceicao_visualvm é mais antigo que 45 dias (21/06/2024). Diretório: F:\SIGER\WC\DES\conceicao_visualvm
+Working-Copy ficha_289589 é mais antigo que 45 dias (07/02/2024). Diretório: F:\SIGER\WC\DES\ficha_289589
+Working-Copy ficha_290724 é mais antigo que 45 dias (04/02/2024). Diretório: F:\SIGER\WC\DES\ficha_290724
+Working-Copy ficha_291387 é mais antigo que 45 dias (11/07/2024). Diretório: F:\SIGER\WC\DES\ficha_291387
+Working-Copy ficha_291449 é mais antigo que 45 dias (04/04/2024). Diretório: F:\SIGER\WC\DES\ficha_291449
+Working-Copy ficha_291967 é mais antigo que 45 dias (22/02/2024). Diretório: F:\SIGER\WC\DES\ficha_291967
+Working-Copy ficha_291756 é mais antigo que 45 dias (16/03/2024). Diretório: F:\SIGER\WC\DES\ficha_291756
+Working-Copy ficha_292170 é mais antigo que 45 dias (23/02/2024). Diretório: F:\SIGER\WC\DES\ficha_292170
+Working-Copy ficha_292189 é mais antigo que 45 dias (26/02/2024). Diretório: F:\SIGER\WC\DES\ficha_292189
+Working-Copy ficha_292753 é mais antigo que 45 dias (17/04/2024). Diretório: F:\SIGER\WC\DES\ficha_292753
+Working-Copy ficha_292827 é mais antigo que 45 dias (12/05/2024). Diretório: F:\SIGER\WC\DES\ficha_292827
+Working-Copy ficha_293619 é mais antigo que 45 dias (25/04/2024). Diretório: F:\SIGER\WC\DES\ficha_293619
+Working-Copy ficha_294024 é mais antigo que 45 dias (22/04/2024). Diretório: F:\SIGER\WC\DES\ficha_294024
+Working-Copy ficha_293636 é mais antigo que 45 dias (30/05/2024). Diretório: F:\SIGER\WC\DES\ficha_293636
+Working-Copy ficha_294069 é mais antigo que 45 dias (22/05/2024). Diretório: F:\SIGER\WC\DES\ficha_294069
+Working-Copy ficha_294562 é mais antigo que 45 dias (01/06/2024). Diretório: F:\SIGER\WC\DES\ficha_294562
+Working-Copy ficha_294487 é mais antigo que 45 dias (28/06/2024). Diretório: F:\SIGER\WC\DES\ficha_294487
+Working-Copy ficha_294722 é mais antigo que 45 dias (02/06/2024). Diretório: F:\SIGER\WC\DES\ficha_294722
+Working-Copy ficha_294818 é mais antigo que 45 dias (08/08/2024). Diretório: F:\SIGER\WC\DES\ficha_294818
+Working-Copy ficha_294819 é mais antigo que 45 dias (12/06/2024). Diretório: F:\SIGER\WC\DES\ficha_294819
+Working-Copy ficha_294867 é mais antigo que 45 dias (19/06/2024). Diretório: F:\SIGER\WC\DES\ficha_294867
+Working-Copy ficha_294868 é mais antigo que 45 dias (16/06/2024). Diretório: F:\SIGER\WC\DES\ficha_294868
+Working-Copy ficha_294968 é mais antigo que 45 dias (20/06/2024). Diretório: F:\SIGER\WC\DES\ficha_294968
+Working-Copy ficha_294883 é mais antigo que 45 dias (08/08/2024). Diretório: F:\SIGER\WC\DES\ficha_294883
+Working-Copy ficha_294937 é mais antigo que 45 dias (05/07/2024). Diretório: F:\SIGER\WC\DES\ficha_294937
+Working-Copy ficha_294915 é mais antigo que 45 dias (12/06/2024). Diretório: F:\SIGER\WC\DES\ficha_294915
+Working-Copy ficha_294970 é mais antigo que 45 dias (10/07/2024). Diretório: F:\SIGER\WC\DES\ficha_294970
+Working-Copy ficha_294998 é mais antigo que 45 dias (07/08/2024). Diretório: F:\SIGER\WC\DES\ficha_294998
+Working-Copy ficha_295085 é mais antigo que 45 dias (16/07/2024). Diretório: F:\SIGER\WC\DES\ficha_295085
+Working-Copy ficha_295021 é mais antigo que 45 dias (22/06/2024). Diretório: F:\SIGER\WC\DES\ficha_295021
+Working-Copy ficha_295361 é mais antigo que 45 dias (17/08/2024). Diretório: F:\SIGER\WC\DES\ficha_295361
+Working-Copy ficha_295364 é mais antigo que 45 dias (18/07/2024). Diretório: F:\SIGER\WC\DES\ficha_295364
+Working-Copy ficha_295393 é mais antigo que 45 dias (19/06/2024). Diretório: F:\SIGER\WC\DES\ficha_295393
+Working-Copy ficha_295380 é mais antigo que 45 dias (03/07/2024). Diretório: F:\SIGER\WC\DES\ficha_295380
+Working-Copy ficha_295750 é mais antigo que 45 dias (06/07/2024). Diretório: F:\SIGER\WC\DES\ficha_295750
+Working-Copy ficha_295843 é mais antigo que 45 dias (16/07/2024). Diretório: F:\SIGER\WC\DES\ficha_295843
+Working-Copy ficha_295795 é mais antigo que 45 dias (06/07/2024). Diretório: F:\SIGER\WC\DES\ficha_295795
+Working-Copy ficha_295804 é mais antigo que 45 dias (20/07/2024). Diretório: F:\SIGER\WC\DES\ficha_295804
+Working-Copy ficha_295898 é mais antigo que 45 dias (10/07/2024). Diretório: F:\SIGER\WC\DES\ficha_295898
+Working-Copy ficha_295910 é mais antigo que 45 dias (06/07/2024). Diretório: F:\SIGER\WC\DES\ficha_295910
+Working-Copy ficha_296077 é mais antigo que 45 dias (21/07/2024). Diretório: F:\SIGER\WC\DES\ficha_296077
+Working-Copy ficha_295933 é mais antigo que 45 dias (26/07/2024). Diretório: F:\SIGER\WC\DES\ficha_295933
+Working-Copy ficha_296075 é mais antigo que 45 dias (19/07/2024). Diretório: F:\SIGER\WC\DES\ficha_296075
+Working-Copy ficha_296169 é mais antigo que 45 dias (27/06/2024). Diretório: F:\SIGER\WC\DES\ficha_296169
+Working-Copy ficha_296132 é mais antigo que 45 dias (13/07/2024). Diretório: F:\SIGER\WC\DES\ficha_296132
+Working-Copy ficha_296228 é mais antigo que 45 dias (12/07/2024). Diretório: F:\SIGER\WC\DES\ficha_296228
+Working-Copy ficha_296213 é mais antigo que 45 dias (17/07/2024). Diretório: F:\SIGER\WC\DES\ficha_296213
+Working-Copy ficha_296237 é mais antigo que 45 dias (16/08/2024). Diretório: F:\SIGER\WC\DES\ficha_296237
+Working-Copy ficha_296247 é mais antigo que 45 dias (01/08/2024). Diretório: F:\SIGER\WC\DES\ficha_296247
+Working-Copy ficha_296288 é mais antigo que 45 dias (26/07/2024). Diretório: F:\SIGER\WC\DES\ficha_296288
+Working-Copy ficha_296257 é mais antigo que 45 dias (02/07/2024). Diretório: F:\SIGER\WC\DES\ficha_296257
+Working-Copy ficha_296313 é mais antigo que 45 dias (15/07/2024). Diretório: F:\SIGER\WC\DES\ficha_296313
+Working-Copy ficha_296354 é mais antigo que 45 dias (19/07/2024). Diretório: F:\SIGER\WC\DES\ficha_296354
+Working-Copy ficha_296325 é mais antigo que 45 dias (28/07/2024). Diretório: F:\SIGER\WC\DES\ficha_296325
+Working-Copy ficha_296497 é mais antigo que 45 dias (28/07/2024). Diretório: F:\SIGER\WC\DES\ficha_296497
+Working-Copy ficha_296572 é mais antigo que 45 dias (25/07/2024). Diretório: F:\SIGER\WC\DES\ficha_296572
+Working-Copy ficha_296774 é mais antigo que 45 dias (14/08/2024). Diretório: F:\SIGER\WC\DES\ficha_296774
+Working-Copy ficha_296819 é mais antigo que 45 dias (02/08/2024). Diretório: F:\SIGER\WC\DES\ficha_296819
+Working-Copy ficha_296622 é mais antigo que 45 dias (15/08/2024). Diretório: F:\SIGER\WC\DES\ficha_296622
+Working-Copy ficha_296690 é mais antigo que 45 dias (01/08/2024). Diretório: F:\SIGER\WC\DES\ficha_296690
+Working-Copy ficha_296820 é mais antigo que 45 dias (01/08/2024). Diretório: F:\SIGER\WC\DES\ficha_296820
+Working-Copy ficha_296836 é mais antigo que 45 dias (07/08/2024). Diretório: F:\SIGER\WC\DES\ficha_296836
+Working-Copy ficha_296939 é mais antigo que 45 dias (16/08/2024). Diretório: F:\SIGER\WC\DES\ficha_296939
+Working-Copy ficha_296953 é mais antigo que 45 dias (14/08/2024). Diretório: F:\SIGER\WC\DES\ficha_296953
+Working-Copy ficha_296955 é mais antigo que 45 dias (17/08/2024). Diretório: F:\SIGER\WC\DES\ficha_296955
+Working-Copy ficha_297018 é mais antigo que 45 dias (22/07/2024). Diretório: F:\SIGER\WC\DES\ficha_297018
+Working-Copy ficha_297049 é mais antigo que 45 dias (08/08/2024). Diretório: F:\SIGER\WC\DES\ficha_297049
+Working-Copy ficha_297053 é mais antigo que 45 dias (09/08/2024). Diretório: F:\SIGER\WC\DES\ficha_297053
+Working-Copy ficha_297098 é mais antigo que 45 dias (29/07/2024). Diretório: F:\SIGER\WC\DES\ficha_297098
+Working-Copy ficha_297083 é mais antigo que 45 dias (09/08/2024). Diretório: F:\SIGER\WC\DES\ficha_297083
+Working-Copy ficha_297367 é mais antigo que 45 dias (13/08/2024). Diretório: F:\SIGER\WC\DES\ficha_297367
+Working-Copy ficha_297443 é mais antigo que 45 dias (09/08/2024). Diretório: F:\SIGER\WC\DES\ficha_297443
+Working-Copy ficha_297670 é mais antigo que 45 dias (13/08/2024). Diretório: F:\SIGER\WC\DES\ficha_297670
+Working-Copy ficha_297734 é mais antigo que 45 dias (14/08/2024). Diretório: F:\SIGER\WC\DES\ficha_297734
+Working-Copy garcia_297536 é mais antigo que 45 dias (12/08/2024). Diretório: F:\SIGER\WC\DES\garcia_297536
+Working-Copy gustavo_tstfon é mais antigo que 45 dias (04/07/2024). Diretório: F:\SIGER\WC\DES\gustavo_tstfon
+Working-Copy gustavo_teste é mais antigo que 45 dias (13/07/2024). Diretório: F:\SIGER\WC\DES\gustavo_teste
+Working-Copy josiandro2 é mais antigo que 45 dias (18/05/2024). Diretório: F:\SIGER\WC\DES\josiandro2
+Working-Copy josiandro3 é mais antigo que 45 dias (20/06/2024). Diretório: F:\SIGER\WC\DES\josiandro3
+Working-Copy leonardo_1 é mais antigo que 45 dias (29/06/2024). Diretório: F:\SIGER\WC\DES\leonardo_1
+Working-Copy passos_2 é mais antigo que 45 dias (11/03/2024). Diretório: F:\SIGER\WC\DES\passos_2
+Working-Copy passos_srover é mais antigo que 45 dias (17/07/2024). Diretório: F:\SIGER\WC\DES\passos_srover
+Working-Copy queiroz9 é mais antigo que 45 dias (20/04/2024). Diretório: F:\SIGER\WC\DES\queiroz9
+Working-Copy ricardo_3 é mais antigo que 45 dias (15/07/2024). Diretório: F:\SIGER\WC\DES\ricardo_3
+Working-Copy rns_469327 é mais antigo que 45 dias (29/07/2024). Diretório: F:\SIGER\WC\DES\rns_469327
+Working-Copy rns_484844 é mais antigo que 45 dias (16/08/2024). Diretório: F:\SIGER\WC\DES\rns_484844
+Working-Copy rns_485350 é mais antigo que 45 dias (19/05/2024). Diretório: F:\SIGER\WC\DES\rns_485350
+Working-Copy rns_485657 é mais antigo que 45 dias (03/04/2024). Diretório: F:\SIGER\WC\DES\rns_485657
+Working-Copy rns_486506 é mais antigo que 45 dias (27/03/2024). Diretório: F:\SIGER\WC\DES\rns_486506
+Working-Copy rns_486521 é mais antigo que 45 dias (18/04/2024). Diretório: F:\SIGER\WC\DES\rns_486521
+Working-Copy rns_488672 é mais antigo que 45 dias (03/05/2024). Diretório: F:\SIGER\WC\DES\rns_488672
+Working-Copy rns_490935 é mais antigo que 45 dias (29/07/2024). Diretório: F:\SIGER\WC\DES\rns_490935
+Working-Copy rns_492753 é mais antigo que 45 dias (06/06/2024). Diretório: F:\SIGER\WC\DES\rns_492753
+Working-Copy rns_491041 é mais antigo que 45 dias (27/06/2024). Diretório: F:\SIGER\WC\DES\rns_491041
+Working-Copy rns_492976 é mais antigo que 45 dias (26/07/2024). Diretório: F:\SIGER\WC\DES\rns_492976
+Working-Copy rns_493187 é mais antigo que 45 dias (13/06/2024). Diretório: F:\SIGER\WC\DES\rns_493187
+Working-Copy rns_493014_02 é mais antigo que 45 dias (17/08/2024). Diretório: F:\SIGER\WC\DES\rns_493014_02
+Working-Copy rns_493402 é mais antigo que 45 dias (04/07/2024). Diretório: F:\SIGER\WC\DES\rns_493402
+Working-Copy rns_495133 é mais antigo que 45 dias (09/07/2024). Diretório: F:\SIGER\WC\DES\rns_495133
+Working-Copy rns_495107 é mais antigo que 45 dias (25/07/2024). Diretório: F:\SIGER\WC\DES\rns_495107
+Working-Copy rns_496379 é mais antigo que 45 dias (15/08/2024). Diretório: F:\SIGER\WC\DES\rns_496379
+Working-Copy rns_497119 é mais antigo que 45 dias (29/07/2024). Diretório: F:\SIGER\WC\DES\rns_497119
+Working-Copy rns_497187 é mais antigo que 45 dias (30/07/2024). Diretório: F:\SIGER\WC\DES\rns_497187
+Working-Copy rns_488846 é mais antigo que 45 dias (17/04/2024). Diretório: F:\SIGER\WC\DES\rns_488846
+Working-Copy rns_497761 é mais antigo que 45 dias (07/08/2024). Diretório: F:\SIGER\WC\DES\rns_497761
+Working-Copy rns_498389 é mais antigo que 45 dias (13/08/2024). Diretório: F:\SIGER\WC\DES\rns_498389
+Working-Copy romariz2 é mais antigo que 45 dias (07/06/2024). Diretório: F:\SIGER\WC\DES\romariz2
+Working-Copy simon2 é mais antigo que 45 dias (21/06/2024). Diretório: F:\SIGER\WC\DES\simon2
+Working-Copy simon3 é mais antigo que 45 dias (19/07/2024). Diretório: F:\SIGER\WC\DES\simon3
+Working-Copy vanzella2 é mais antigo que 45 dias (14/07/2024). Diretório: F:\SIGER\WC\DES\vanzella2
+Working-Copy vanzella4 é mais antigo que 45 dias (14/08/2024). Diretório: F:\SIGER\WC\DES\vanzella4
+Working-Copy zzzdibah é mais antigo que 45 dias (14/06/2024). Diretório: F:\SIGER\WC\DES\zzzdibah
+                                             Fim: 01:30:29,182 qua, 02/out/2024
+                                                                   00:00:55,654
+.
+------------------------------------------------------------------------------------------------------------------------
+Verifica scripts em Ruby (VeRuby.bat) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 01:30:29,900 qua, 02/out/2024
+[0;19;1mScript com identação com incorreta (trocar para múltipo de 2 espaços), file = F:\BAT\har.rb, line = 69[0m
+[0;19;1mScript com terminador de linha inválido: CR+LF (Windows), mudar para LF(Unix Compatible), file = F:\BAT\JavaBuildsRunnerParallel.rb, line = 0[0m
+[0;19;1mUso de variáveis ENV['USERNAME'] ou similar, trocar pelo método correto declarado em System.rb, file = F:\BAT\RobotStarter.rb, line = 208[0m
+[0;19;1mScript com terminador de linha inválido: CR+LF (Windows), mudar para LF(Unix Compatible), file = F:\BAT\timeoutplay.rb, line = 0[0m
+                                             Fim: 01:50:54,439 qua, 02/out/2024
+                                                                   00:20:24,539
+.
+------------------------------------------------------------------------------------------------------------------------
+Verifica documentação yard nos scripts Ruby (VeYard.bat) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 01:50:54,601 qua, 02/out/2024
+[0;19;1mMétodo get_codigo_tecnico sem tag @return;, file = F:\BAT\timeoutplay.rb, line = 62[0m
+                                             Fim: 01:51:30,645 qua, 02/out/2024
+                                                                   00:00:36,044
+.
+------------------------------------------------------------------------------------------------------------------------
+Verifica consistência de arquivos .json (VeJson.bat) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 01:51:30,810 qua, 02/out/2024
+*** Arquivo json inconsistente: f:\siger\des\etc\webclient-default.config
+
+
+                                             Fim: 01:57:22,212 qua, 02/out/2024
+                                                                   00:05:51,402
+.
+------------------------------------------------------------------------------------------------------------------------
+Verifica execução do REC010 (VeMd10.bat) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 01:57:22,355 qua, 02/out/2024
+** Foram encontrados erros no log de execução do REC010. Arquivo de log: F:\RIL\MD10\log\M10202410011901.TXT
+   Verifique o conteúdo do log em F:\RIL\MD10\log\M10202410011901.TXT
+** Foram encontrados erros no log de execução do REC010. Arquivo de log: F:\RIL\MD41\log\M41202410011928.TXT
+   Verifique o conteúdo do log em F:\RIL\MD41\log\M41202410011928.TXT
+                                             Fim: 01:57:28,253 qua, 02/out/2024
+                                                                   00:00:05,898
+.
+------------------------------------------------------------------------------------------------------------------------
+Verifica execução de importação do Autogrep (VeAutogrep.bat) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 01:57:28,403 qua, 02/out/2024
+Foram encontrados logs de nível SEVERE no arquivo F:\TMP\Preproc\Importador.log
+                                             Fim: 01:58:26,525 qua, 02/out/2024
+                                                                   00:00:58,122
+.
+------------------------------------------------------------------------------------------------------------------------
+Verifica diferença de parâmetros entre programas chamadores e chamados (vecallall.bat) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 01:58:28,556 qua, 02/out/2024
+Resultados em f:\tmp\log\vd_vecallall.log 
+                                             Fim: 01:58:29,347 qua, 02/out/2024
+                                                                   00:00:00,791
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação de arquivos inválidos no f:\fontes (vefon.bat) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 01:58:29,480 qua, 02/out/2024
+F:\SIGER\24.20a\fon\replay_pid582540.log - Arquivo inválido no f:\fontes!
+F:\SIGER\24.20a\fon\hs_err_pid582540.log - Arquivo inválido no f:\fontes!
+                                             Fim: 01:58:34,859 qua, 02/out/2024
+                                                                   00:00:05,379
+.
+------------------------------------------------------------------------------------------------------------------------
+Verifica formulários isCOBOL (vefrm.bat) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 01:58:35,006 qua, 02/out/2024
+Resultados em f:\tmp\log\vd_vefrm.log 
+                                             Fim: 01:59:06,979 qua, 02/out/2024
+                                                                   00:00:31,973
+.
+------------------------------------------------------------------------------------------------------------------------
+Resultado da Compilação dos fontes da Desenvolvimento (cpger.bat des noint) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 01:59:07,251 qua, 02/out/2024
+
+----------------------------------------------------------------------------------------
+Informações sobre esta sessão (PID=10992):
+No momento o envio p/Cluster está DESATIVADO neste prompt
+
+Informações sobre o servidor (192.168.254.134) e executores:
+Status do Cluster de Compilação/Testes - LIGADO!
+
+Tipo de requisição: 1 - COMPILACAO
+Quantidade total executores [threads que executam as requisições]: 152
+Quantidade máxima de execuções simultâneas: 140
+Quantidade comandos aguardando na fila: 0
+Quantidade comandos sendo executados no momento: 0
+
+Tipo de requisição: 2 - TESTE
+Quantidade total executores [threads que executam as requisições]: 0
+Quantidade máxima de execuções simultâneas: 140
+Quantidade comandos aguardando na fila: 0
+Quantidade comandos sendo executados no momento: 0
+
+Tipo de requisição: 3 - JOB_TESTE
+Quantidade total executores [threads que executam as requisições]: 39
+Quantidade máxima de execuções simultâneas: 140
+Quantidade comandos aguardando na fila: 685
+Quantidade comandos sendo executados no momento: 39
+----------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------
+F:\SIGER\24.20a\fon\SRILEG.CBL
+F:\SIGER\24.20a\log\iscobol\SRILEG.err
+**ICP:Compilação isCOBOL Mal Sucedida de SRILEG.CBL
+Comando: java  com.iscobol.compiler.Pcc SRILEG.CBL -jj -cm -dcm -dv=0 -ef -wref -wr -ostrip -sf -noarcc -verbose -no-cudc -m1 -eo=F:\SIGER\24.20a\log\iscobol -sp=F:\SIGER\24.20a\fon -c=F:\SIGER\24.20a\etc\iscobol.properties
+               [2]ICP em R93400-02-VSP por TASK1 21:13:49,67, 01/10/2024
+
+
+-------------------------------------------------------
+F:\SIGER\24.20a\fon\SRILEG.CBL
+F:\SIGER\24.20a\log\iscobol\SRILEG.err
+**ICP:Compilação isCOBOL Mal Sucedida de SRILEG.CBL
+Comando: java  com.iscobol.compiler.Pcc SRILEG.CBL -jj -cm -dcm -dv=0 -ef -wref -wr -ostrip -sf -noarcc -verbose -no-cudc -m1 -eo=F:\SIGER\24.20a\log\iscobol -sp=F:\SIGER\24.20a\fon -c=F:\SIGER\24.20a\etc\iscobol.properties
+               [2]ICP em R93400-02-VSP por TASK1 21:14:04,67, 01/10/2024
+
+
+-------------------------------------------------------
+f:\FONISC\EX1149\EX1149t.CBL
+f:\FONISC\EX1149\EX1149T.err
+**ICP:Compilação isCOBOL Mal Sucedida de EX1149T.CBL
+Comando: java  com.iscobol.compiler.Pcc EX1149T.CBL -jj -cm -dcm -dv=0 -ef -wref -wr -ostrip -sf -noarcc -verbose -no-cudc -m1 -eo=f:\FONISC\EX1149 -sp=f:\FONISC\EX1149;F:\SIGER\24.20a\fon;F:\SIGER\24.20a\fon -c=F:\SIGER\24.20a\etc\iscobol.properties
+               [2]ICP em VC-TASKS1-VS22 por task1  0:35:42,62, 02/10/2024
+                                             Fim: 01:59:10,043 qua, 02/out/2024
+                                                                   00:00:02,792
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação de fichas não testadas (VeTst.bat) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 01:59:10,178 qua, 02/out/2024
+Ficha:298364, Geração:27/09/2024 08:54:10 (Semanal), Programador:Bernardo, Gerador:Lucas-Camargo, sem dados de teste no SICLA! (4 dias)
+Ficha:298508, Geração:27/09/2024 09:27:30 (Semanal), Programador:Bernardo, Gerador:Vicente, sem dados de teste no SICLA! (4 dias)
+Ficha:298366, Geração:27/09/2024 09:28:57 (Semanal), Programador:Bernardo, Gerador:Lucas-Camargo, sem dados de teste no SICLA! (4 dias)
+Ficha:297565, Geração:27/09/2024 08:31:21 (Semanal), Programador:Vicente, Gerador:Vicente, sem dados de teste no SICLA! (4 dias)
+Ficha:298977, Geração:27/09/2024 09:29:35 (Semanal), Programador:Vicente, Gerador:Vicente, sem dados de teste no SICLA! (4 dias)
+Ficha:298854, Geração:27/09/2024 11:03:14 (Semanal), Programador:Vicente, Gerador:Vicente, sem dados de teste no SICLA! (4 dias)
+Ficha:298457, Geração:27/09/2024 08:21:13 (Semanal), Programador:Bereta, Gerador:Fabio-S, sem dados de teste no SICLA! (4 dias)
+Ficha:299222, Geração:01/10/2024 07:49:14 (Parcial), Programador:Marcelinho, Gerador:Marcelinho, sem dados de teste no SICLA! 
+Ficha:299061, Geração:30/09/2024 10:34:27 (Parcial), Programador:Vanius, Gerador:Vanius, sem dados de teste no SICLA! 
+Ficha:299105, Geração:30/09/2024 10:40:11 (Parcial), Programador:Vanius, Gerador:Vanius, sem dados de teste no SICLA! 
+Ficha:298849, Geração:18/09/2024 13:27:38 (Parcial), Programador:Vicente, Gerador:Lucas-Camargo, sem dados de teste no SICLA! (13 dias)
+Ficha:298887, Geração:19/09/2024 08:43:46 (Parcial), Programador:Vicente, Gerador:Vicente, sem dados de teste no SICLA! (12 dias)
+Ficha:298858, Geração:19/09/2024 08:44:43 (Parcial), Programador:Vicente, Gerador:Vicente, sem dados de teste no SICLA! (12 dias)
+Ficha:295898, Geração:19/09/2024 09:04:59 (Parcial), Programador:Vicente, Gerador:Vicente, sem dados de teste no SICLA! (12 dias)
+Ficha:298949, Geração:25/09/2024 08:52:30 (Parcial), Programador:Vicente, Gerador:Vicente, sem dados de teste no SICLA! (6 dias)
+Ficha:298984, Geração:25/09/2024 08:55:04 (Parcial), Programador:Vicente, Gerador:Vicente, sem dados de teste no SICLA! (6 dias)
+Ficha:299158, Geração:26/09/2024 12:54:05 (Parcial), Programador:Vicente, Gerador:Vicente, sem dados de teste no SICLA! (5 dias)
+Ficha:298158, Geração:01/10/2024 16:31:18 (Parcial), Programador:Leonardo, Gerador:Weber, sem dados de teste no SICLA! 
+Ficha:297077, Geração:23/09/2024 18:37:01 (Parcial), Programador:Conceicao, Gerador:Conceicao, sem dados de teste no SICLA! (8 dias)
+Ficha:298744, Geração:23/09/2024 18:43:44 (Parcial), Programador:Conceicao, Gerador:Conceicao, sem dados de teste no SICLA! (8 dias)
+Ficha:298323, Geração:23/09/2024 10:55:07 (Parcial), Programador:Simon, Gerador:Simon, sem dados de teste no SICLA! (8 dias)
+Ficha:298473, Geração:23/09/2024 10:55:14 (Parcial), Programador:Simon, Gerador:Simon, sem dados de teste no SICLA! (8 dias)
+Ficha:297438, Geração:01/10/2024 16:22:17 (Parcial), Programador:Braian, Gerador:Weber, sem dados de teste no SICLA! 
+Ficha:299051, Geração:30/09/2024 09:31:10 (Parcial), Programador:William, Gerador:Matheus-Camargo, sem dados de teste no SICLA! 
+Ficha:299346, Geração:01/10/2024 16:10:51 (Parcial), Programador:Pedro, Gerador:Weber, sem dados de teste no SICLA! 
+Ficha:298732, Geração:24/09/2024 13:43:57 (Parcial), Programador:Mairon, Gerador:Bereta, sem dados de teste no SICLA! (7 dias)
+                                             Fim: 01:59:19,035 qua, 02/out/2024
+                                                                   00:00:08,857
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação do log de warning de pre processamento (PreprocAll.bat) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 01:59:26,431 qua, 02/out/2024
+Resumo do PreprocAll.bat em F:\TMP\Preproc\24.20a\Warnings\202409292000\ResumoPreprocAll.txt 
+ 
+Resumo dos warnings, veja detalhamento em f:\tmp\log\PreProcAll202409292000.log 
+ TOTAL UNICOS Descrição
+------ ------ ----------------------------------------------------------------------------------------------------------------------------------
+ 32122   9774 *** Warning: [W146] MOVE de PIC X normal para ANY LENGTH: W78-DOCTAB-CMD-LOCK -> WARQ-CMD
+ 10497   9347 *** Warning: [W123] Uso de rotina deprecated: perform edita-datas
+  8207   4346 *** Warning: [W047] GO TO remove a otimização do parágrafo 
+  4240    684 *** Warning: [W161] Variável capacity in de tabela aninhada deve ser indexada corretamente: wxb-pi-vinculados-req-size(?)
+  3318   3318 *** Warning: [W097] Comando obsoleto do gerenciador de arquivos 
+  3076   3076 *** Warning: [W154] Método não tem documentação RechDoc nem comentários simples listagemServicos
+  2213   1302 *** Warning: [W148] STRING com variável PIC X ANY LENGTH sem trim wird-txtobs
+   559    499 *** Warning: [W087] EVALUATE com bloco de comandos duplicado em mais de uma condição
+   412    359 *** Warning: [W038] Variável indexada não protegida por constante em PERFORM inline
+   350    350 *** Warning: [W155] Variável de parâmetro de método OOP deve ser dinâmica in-sigla-destino
+   205    173 *** Warning: [W023] Parágrafo: 300-EXPORT-DMPL com complexidade ciclomática crítica (199)
+   100     86 *** Warning: [W151] Objeto isCOBOL não deve ser usado como variável de trabalho ou de retorno numericObject
+    98     98 *** Warning: [W153] Nome de objeto deve ser escrito em modo lowerCamelCase full-file-name
+    43      1 *** Warning: [W013] Copybook não encontrado: 
+    34     34 *** Warning: [W164] Utilize o método :>isEmpty para testar collection vazia listaReqOCEliminadas
+    17     16 *** Warning: [W015] Copy peditafs.cpy está inserido desnecessariamente no programa 
+     9      9 *** Warning: [W115] Falta método :>copy ao adicionar variável em collection
+     6      6 *** Warning: [W002] Excedeu 120 colunas
+     5      5 *** Warning: [W020] Encontrado caracter inválido 
+     4      4 *** Warning: [W152] Variável de retorno deve ser declarada na working e não na linkage wWsriswpRetObject
+     2      2 *** Warning: [W064] Item de grupo inicializado indevidamente com ALL TO VALUE 
+     1      1 *** Warning: [W118] Variável incompatível com tipagem da collection, listaOPs value=JSet valueType=JList
+     1      1 *** Warning: [W079] MOVE de variável alfanumérica para numérica 
+     1      1 *** Warning: [W073] Constante declarada indevidamente, adiciona copys desnecessarios 
+     1      1 *** Warning: [W016] Parágrafo declarado no programa não é utilizado 
+. 
+Resumo dos warnings Novos, procure por [Novo] em f:\tmp\log\PreProcAll202409292000.log 
+ TOTAL UNICOS Descrição
+------ ------ ----------------------------------------------------------------------------------------------------------------------------------
+    43      1 *** Warning: [W013] Copybook não encontrado: 
+     3      3 *** Warning: [W146] MOVE de PIC X normal para ANY LENGTH: W78-DOCTAB-CMD-LOCK -> WARQ-CMD
+     1      1 *** Warning: [W148] STRING com variável PIC X ANY LENGTH sem trim wird-txtobs
+     1      1 *** Warning: [W023] Parágrafo: 300-EXPORT-DMPL com complexidade ciclomática crítica (199)
+                                             Fim: 01:59:26,597 qua, 02/out/2024
+                                                                   00:00:00,166
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação detalhada do log de warning de pre processamento (vePreprocAll.bat) 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 01:59:26,745 qua, 02/out/2024
+Resultados em f:\tmp\log\vd_vePreprocAll.log 
+                                             Fim: 01:59:36,861 qua, 02/out/2024
+                                                                   00:00:10,116
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação de WcBats inconsistentes e/ou antigos (VeWcBat.bat) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 01:59:37,086 qua, 02/out/2024
+O WcBat bereta_migracao é antigo e/ou inconsistente e o(a) Bereta é responsável por ele.
+O WcBat ficha_293524 é antigo e/ou inconsistente e o(a) Simon é responsável por ele.
+O WcBat simon_migracao é antigo e/ou inconsistente e o(a) Simon é responsável por ele.
+O WcBat ficha_293966 é antigo e/ou inconsistente e o(a) Vanius é responsável por ele.
+O WcBat ficha_297513 é antigo e/ou inconsistente e o(a) administrador é responsável por ele.
+O WcBat neumann é antigo e/ou inconsistente e o(a) administrador é responsável por ele.
+O WcBat sandro2 é antigo e/ou inconsistente e o(a) Sandro é responsável por ele.
+                                             Fim: 01:59:40,629 qua, 02/out/2024
+                                                                   00:00:03,543
+.
+------------------------------------------------------------------------------------------------------------------------
+Verificação do status dos links do Help (CheckLinkHelp.bat) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 02:08:30,472 qua, 02/out/2024
+https://www.rech.com.br/help/2320/notas.htm - Fonte (SRHMPF) - Erro [404 Not Found]
+https://www.rech.com.br/help/2320/fin_cfi_ger_instrucoes_bancarias.htm - Fonte (SRGINB) - Erro [404 Not Found]
+https://www.rech.com.br/help/2320/fin_cfi_ger_instrucoes_bancarias.htm - Fonte (SRGINB) - Erro [404 Not Found]
+https://www.rech.com.br/help/2320/bloqueio_desbloqueio.htm - Fonte (SRH014) - Erro [404 Not Found]
+https://www.rech.com.br/help/2320/tarefa_agendada_agendador.htm - Fonte (SRIMTS) - Erro [404 Not Found]
+https://www.rech.com.br/help/2320/certificado_fat.htm - Fonte (SRIMCE) - Erro [404 Not Found]
+https://www.rech.com.br/help/siger/retorno_de_ben_notas_separadas.htm - Fonte (SROGNB) - Erro [404 Not Found]
+https://www.rech.com.br/help/siger/bloqueio_desbloqueio.htm - Fonte (SRH014) - Erro [404 Not Found]
+https://www.rech.com.br/help/siger/esp_funcionamento_integracao.htm - Fonte (EDICFG) - Erro [404 Not Found]
+https://www.rech.com.br/help/siger/edi.htm - Fonte (EDIGER) - Erro [404 Not Found]
+https://www.rech.com.br/help/siger/gerenciamento_de_pedidos.htm - Fonte (SRTXSP) - Erro [404 Not Found]
+https://www.rech.com.br/help/siger/gerenciamento_de_pedidos.htm - Fonte (SRTXSP) - Erro [404 Not Found]
+https://www.rech.com.br/help/siger/gerenciamento_de_pedidos.htm - Fonte (SRTXSP) - Erro [404 Not Found]
+https://www.rech.com.br/help/siger/config_formul_configuraveis.htm - Fonte (SRIGDO) - Erro [404 Not Found]
+https://www.rech.com.br/help/siger/import_consolidada_edi.htm - Fonte (FTR033) - Erro [404 Not Found]
+https://www.rech.com.br/help/siger/configuracoes_por_edi.htm - Fonte (EDICEC) - Erro [404 Not Found]
+                                             Fim: 02:10:34,938 qua, 02/out/2024
+                                                                   00:02:04,466
+.
+------------------------------------------------------------------------------------------------------------------------
+Verifica se W78-QTDAJU dos ???005.CBL coincide com as ocorrências de WAJ-TABELA (VeProgramasMenu.rb) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 02:26:19,788 qua, 02/out/2024
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\WMS005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\TLO005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\TEL005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\RHU005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\PDV005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\OSE005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\LFI005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\GPA005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\GIN005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\GCO005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\FTR005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\FPA005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\FIN005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\FAT005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\EST005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\CTB005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\CST005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\COM005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\CEX005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\BIR005.CBL
+Não conseguiu encontrar o valor da constante w78-qtdaju no F:\SIGER\24.20a\fon\AUE005.CBL
+                                             Fim: 02:26:23,788 qua, 02/out/2024
+                                                                   00:00:04,000
+.
+------------------------------------------------------------------------------------------------------------------------
+Verifica menus diferentes com literais duplicadas, categorização dos menus, etc (VeMenusSiger.rb) 
+Etapa envia e-mail: Não 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 02:26:24,036 qua, 02/out/2024
+
+Menus com literal "Emissão de Etiquetas" duplicada nas seguintes declarações:
+WMS005.CBL:361:              10 filler           pic x(w78-tltmen-n3)     value "E-Emissão de Etiquetas                            #R".
+OSE005.CBL:415:              10 filler           pic x(w78-tltmen-n3)     value "E-Emissão de Etiquetas                            #L".
+GIN005.CBL:660:              10 filler           pic x(w78-tltmen-n3)     value "T-Emissão de Etiquetas                            #R".
+FAT005.CBL:540:              10 filler           pic x(w78-tltmen-n3)     value "E-Emissão de Etiquetas                            #L".
+
+Menus com literal "Relatório de Validação" duplicada nas seguintes declarações:
+RHU005.CBL:547:              10 filler           pic x(w78-tltmen-n3)     value "R-Relatório de Validação                          #L".
+RHU005.CBL:556:              10 filler           pic x(w78-tltmen-n3)     value "R-Relatório de Validação                          #L".
+
+Menus com literal "Verificação de Dados" duplicada nas seguintes declarações:
+RHU005.CBL:549:              10 filler           pic x(w78-tltmen-n3)     value "V-Verificação de Dados                            #R".
+FPA005.CBL:870:              10 filler           pic x(w78-tltmen-n3)     value "V-Verificação de Dados                            #R".
+
+Menus com literal "Geração de XML do eSocial" duplicada nas seguintes declarações:
+RHU005.CBL:552:              10 filler           pic x(w78-tltmen-n3)     value "G-Geração de XML do eSocial                       #R".
+RHU005.CBL:568:              10 filler           pic x(w78-tltmen-n3)     value "G-Geração de XML do eSocial                       #R".
+FPA005.CBL:922:              10 filler           pic x(w78-tltmen-n3)     value "G-Geração de XML do eSocial                       #R".
+
+Menus com literal "Consulta Retorno do Lote" duplicada nas seguintes declarações:
+RHU005.CBL:553:              10 filler           pic x(w78-tltmen-n3)     value "C-Consulta Retorno do Lote                        #R".
+RHU005.CBL:569:              10 filler           pic x(w78-tltmen-n3)     value "C-Consulta Retorno do Lote                        #R".
+
+Menus com literal "Gerenciador de Envio de Registros" duplicada nas seguintes declarações:
+RHU005.CBL:554:              10 filler           pic x(w78-tltmen-n3)     value "V-Gerenciador de Envio de Registros               #R".
+RHU005.CBL:561:              10 filler           pic x(w78-tltmen-n3)     value "V-Gerenciador de Envio de Registros               #R".
+
+Menus com literal "Inclusão de Tarefas" duplicada nas seguintes declarações:
+RHU005.CBL:555:              10 filler           pic x(w78-tltmen-n3)     value "N-Inclusão de Tarefas                             #R".
+RHU005.CBL:570:              10 filler           pic x(w78-tltmen-n3)     value "N-Inclusão de Tarefas                             #R".
+FPA005.CBL:892:              10 filler           pic x(w78-tltmen-n3)     value "N-Inclusão de Tarefas                             #R".
+FPA005.CBL:924:              10 filler           pic x(w78-tltmen-n3)     value "N-Inclusão de Tarefas                             #R".
+
+Menus com literal "Relatório de Admitidos e Demitidos" duplicada nas seguintes declarações:
+RHU005.CBL:557:              10 filler           pic x(w78-tltmen-n3)     value "B-Relatório de Admitidos e Demitidos              #L".
+FPA005.CBL:896:              10 filler           pic x(w78-tltmen-n3)     value "B-Relatório de Admitidos e Demitidos              #L".
+FPA005.CBL:917:              10 filler           pic x(w78-tltmen-n3)     value "B-Relatório de Admitidos e Demitidos              #L".
+
+Menus com literal "Importar XML de Terceiros" duplicada nas seguintes declarações:
+RHU005.CBL:558:              10 filler           pic x(w78-tltmen-n3)     value "I-Importar XML de Terceiros                       #R".
+RHU005.CBL:571:              10 filler           pic x(w78-tltmen-n3)     value "I-Importar XML de Terceiros                       #R".
+
+Menus com literal "Detalhamento de Movimentos" duplicada nas seguintes declarações:
+PDV005.CBL:381:              10 filler           pic x(w78-tltmen-n3)     value "D-Detalhamento de Movimentos                      #L".
+FAT005.CBL:533:              10 filler           pic x(w78-tltmen-n3)     value "D-Detalhamento de Movimentos                      #L".
+
+Menus com literal "Recálculo de Comissões" duplicada nas seguintes declarações:
+PDV005.CBL:422:              10 filler           pic x(w78-tltmen-n3)     value "R-Recálculo de Comissões                          #R".
+WTMENRFC.CPY:23:              10 filler           pic x(w78-tltmen-n3)     value "R-Recálculo de Comissões                          #R".
+
+Menus com literal "Exportação de Dados" duplicada nas seguintes declarações:
+PDV005.CBL:449:              10 filler           pic x(w78-tltmen-n3)     value "E-Exportação de Dados                             #R".
+FTR005.CBL:530:              10 filler           pic x(w78-tltmen-n3)     value "E-Exportação de Dados                             #R".
+FTR005.CBL:578:              10 filler           pic x(w78-tltmen-n3)     value "E-Exportação de Dados                             #R".
+
+Menus com literal "Importação de Dados" duplicada nas seguintes declarações:
+PDV005.CBL:450:              10 filler           pic x(w78-tltmen-n3)     value "I-Importação de Dados                             #R".
+FTR005.CBL:531:              10 filler           pic x(w78-tltmen-n3)     value "I-Importação de Dados                             #M".
+FTR005.CBL:579:              10 filler           pic x(w78-tltmen-n3)     value "I-Importação de Dados                             #M".
+
+Menus com literal "Gerenciamento de Reservas" duplicada nas seguintes declarações:
+OSE005.CBL:389:              10 filler           pic x(w78-tltmen-n3)     value "G-Gerenciamento de Reservas                       #M".
+EST005.CBL:482:              10 filler           pic x(w78-tltmen-n3)     value "G-Gerenciamento de Reservas                       #M".
+WTMENPED.CPY:22:              10 filler           pic x(w78-tltmen-n3)     value "H-Gerenciamento de Reservas                       #R".
+
+Menus com literal "Manutenção Consolidada de Movimentos" duplicada nas seguintes declarações:
+LFI005.CBL:395:              10 filler           pic x(w78-tltmen-n3)     value "M-Manutenção Consolidada de Movimentos            #M".
+EST005.CBL:385:              10 filler           pic x(w78-tltmen-n3)     value "M-Manutenção Consolidada de Movimentos            #M".
+WTMENCXA.CPY:13:              10 filler           pic x(w78-tltmen-n3)     value "M-Manutenção Consolidada de Movimentos            #M".
+
+Menus com literal "Inclusão de Movimentos" duplicada nas seguintes declarações:
+LFI005.CBL:396:              10 filler           pic x(w78-tltmen-n3)     value "I-Inclusão de Movimentos                          #M".
+EST005.CBL:386:              10 filler           pic x(w78-tltmen-n3)     value "I-Inclusão de Movimentos                          #M".
+
+Menus com literal "Alteração de Movimentos" duplicada nas seguintes declarações:
+LFI005.CBL:397:              10 filler           pic x(w78-tltmen-n3)     value "A-Alteração de Movimentos                         #M".
+EST005.CBL:387:              10 filler           pic x(w78-tltmen-n3)     value "A-Alteração de Movimentos                         #M".
+
+Menus com literal "Consulta de Movimentos" duplicada nas seguintes declarações:
+LFI005.CBL:398:              10 filler           pic x(w78-tltmen-n3)     value "C-Consulta de Movimentos                          #M".
+FPA005.CBL:448:              10 filler           pic x(w78-tltmen-n3)     value "C-Consulta de Movimentos                          #L".
+
+Menus com literal "Consulta Simplificada de Movimentos" duplicada nas seguintes declarações:
+LFI005.CBL:399:              10 filler           pic x(w78-tltmen-n3)     value "D-Consulta Simplificada de Movimentos             #M".
+FPA005.CBL:449:              10 filler           pic x(w78-tltmen-n3)     value "D-Consulta Simplificada de Movimentos             #L".
+WTMENCXA.CPY:18:              10 filler           pic x(w78-tltmen-n3)     value "D-Consulta Simplificada de Movimentos             #L".
+
+Menus com literal "Exclusão de Movimentos" duplicada nas seguintes declarações:
+LFI005.CBL:400:              10 filler           pic x(w78-tltmen-n3)     value "E-Exclusão de Movimentos                          #M".
+FPA005.CBL:450:              10 filler           pic x(w78-tltmen-n3)     value "E-Exclusão de Movimentos                          #M".
+EST005.CBL:389:              10 filler           pic x(w78-tltmen-n3)     value "E-Exclusão de Movimentos                          #M".
+
+Menus com literal "Listagem de Movimentos" duplicada nas seguintes declarações:
+LFI005.CBL:401:              10 filler           pic x(w78-tltmen-n3)     value "L-Listagem de Movimentos                          #L".
+FPA005.CBL:451:              10 filler           pic x(w78-tltmen-n3)     value "L-Listagem de Movimentos                          #L".
+EST005.CBL:405:              10 filler           pic x(w78-tltmen-n3)     value "L-Listagem de Movimentos                          #L".
+WTMENCXA.CPY:24:              10 filler           pic x(w78-tltmen-n3)     value "L-Listagem de Movimentos                          #L".
+
+Menus com literal "Consulta de Notas Não Lançadas" duplicada nas seguintes declarações:
+LFI005.CBL:403:              10 filler           pic x(w78-tltmen-n3)     value "O-Consulta de Notas Não Lançadas                  #M".
+WTMENNOC.CPY:20:              10 filler           pic x(w78-tltmen-n3)     value "O-Consulta de Notas Não Lançadas                  #L".
+
+Menus com literal "Listagem de Notas Não Lançadas" duplicada nas seguintes declarações:
+LFI005.CBL:404:              10 filler           pic x(w78-tltmen-n3)     value "P-Listagem de Notas Não Lançadas                  #L".
+WTMENNOC.CPY:21:              10 filler           pic x(w78-tltmen-n3)     value "P-Listagem de Notas Não Lançadas                  #L".
+
+Menus com literal "Informação de Pagamento de Movimentos" duplicada nas seguintes declarações:
+LFI005.CBL:405:              10 filler           pic x(w78-tltmen-n3)     value "G-Informação de Pagamento de Movimentos           #M".
+LFI005.CBL:468:              10 filler           pic x(w78-tltmen-n3)     value "X-Informação de Pagamento de Movimentos           #M".
+
+Menus com literal "Manutenção de Movimentos Revisados" duplicada nas seguintes declarações:
+LFI005.CBL:409:              10 filler           pic x(w78-tltmen-n3)     value "V-Manutenção de Movimentos Revisados              #M".
+LFI005.CBL:470:              10 filler           pic x(w78-tltmen-n3)     value "V-Manutenção de Movimentos Revisados              #M".
+
+Menus com literal "Listagem de Movimentos Não Integrados" duplicada nas seguintes declarações:
+LFI005.CBL:419:              10 filler           pic x(w78-tltmen-n3)     value "L-Listagem de Movimentos Não Integrados           #L".
+LFI005.CBL:466:              10 filler           pic x(w78-tltmen-n3)     value "S-Listagem de Movimentos Não Integrados           #L".
+
+Menus com literal "Recriação de Lotes de Integração" duplicada nas seguintes declarações:
+LFI005.CBL:420:              10 filler           pic x(w78-tltmen-n3)     value "R-Recriação de Lotes de Integração                #R".
+LFI005.CBL:467:              10 filler           pic x(w78-tltmen-n3)     value "U-Recriação de Lotes de Integração                #M".
+
+Menus com literal "Listagem Simplificada de Apurações" duplicada nas seguintes declarações:
+LFI005.CBL:432:              10 filler           pic x(w78-tltmen-n3)     value "S-Listagem Simplificada de Apurações              #L".
+LFI005.CBL:447:              10 filler           pic x(w78-tltmen-n3)     value "S-Listagem Simplificada de Apurações              #L".
+
+Menus com literal "Emissão de DARF" duplicada nas seguintes declarações:
+LFI005.CBL:442:              10 filler           pic x(w78-tltmen-n3)     value "N-Emissão de DARF                                 #L".
+LFI005.CBL:483:              10 filler           pic x(w78-tltmen-n3)     value "N-Emissão de DARF                                 #M".
+LFI005.CBL:542:              10 filler           pic x(w78-tltmen-n3)     value "N-Emissão de DARF                                 #M".
+
+Menus com literal "Manutenção Consolidada de Serviços/ISS" duplicada nas seguintes declarações:
+LFI005.CBL:452:              10 filler           pic x(w78-tltmen-n3)     value "M-Manutenção Consolidada de Serviços/ISS          #M".
+WTMENENS.CPY:15:              10 filler           pic x(w78-tltmen-n3)     value "M-Manutenção Consolidada de Serviços/ISS          #M".
+
+Menus com literal "Inclusão de Serviços/ISS" duplicada nas seguintes declarações:
+LFI005.CBL:453:              10 filler           pic x(w78-tltmen-n3)     value "I-Inclusão de Serviços/ISS                        #M".
+WTMENENS.CPY:16:              10 filler           pic x(w78-tltmen-n3)     value "I-Inclusão de Serviços/ISS                        #M".
+
+Menus com literal "Alteração de Serviços/ISS" duplicada nas seguintes declarações:
+LFI005.CBL:454:              10 filler           pic x(w78-tltmen-n3)     value "A-Alteração de Serviços/ISS                       #M".
+WTMENENS.CPY:17:              10 filler           pic x(w78-tltmen-n3)     value "A-Alteração de Serviços/ISS                       #M".
+
+Menus com literal "Consulta de Serviços/ISS" duplicada nas seguintes declarações:
+LFI005.CBL:455:              10 filler           pic x(w78-tltmen-n3)     value "C-Consulta de Serviços/ISS                        #M".
+WTMENENS.CPY:18:              10 filler           pic x(w78-tltmen-n3)     value "C-Consulta de Serviços/ISS                        #M".
+
+Menus com literal "Exclusão de Serviços/ISS" duplicada nas seguintes declarações:
+LFI005.CBL:456:              10 filler           pic x(w78-tltmen-n3)     value "E-Exclusão de Serviços/ISS                        #M".
+WTMENENS.CPY:19:              10 filler           pic x(w78-tltmen-n3)     value "E-Exclusão de Serviços/ISS                        #M".
+
+Menus com literal "Pagamento de DARF" duplicada nas seguintes declarações:
+LFI005.CBL:457:              10 filler           pic x(w78-tltmen-n3)     value "P-Pagamento de DARF                               #M".
+LFI005.CBL:543:              10 filler           pic x(w78-tltmen-n3)     value "M-Pagamento de DARF                               #M".
+
+Menus com literal "Consulta Consolidada de Serviços/ISS" duplicada nas seguintes declarações:
+LFI005.CBL:458:              10 filler           pic x(w78-tltmen-n3)     value "D-Consulta Consolidada de Serviços/ISS            #M".
+WTMENENS.CPY:20:              10 filler           pic x(w78-tltmen-n3)     value "D-Consulta Consolidada de Serviços/ISS            #M".
+
+Menus com literal "Geração de GA-RS por Nota" duplicada nas seguintes declarações:
+LFI005.CBL:555:              10 filler           pic x(w78-tltmen-n3)     value "R-Geração de GA-RS por Nota                       #M".
+FAT005.CBL:566:              10 filler           pic x(w78-tltmen-n3)     value "P-Geração de GA-RS por Nota                       #R".
+
+Menus com literal "Digitação de Inventário" duplicada nas seguintes declarações:
+LFI005.CBL:597:              10 filler           pic x(w78-tltmen-n3)     value "I-Digitação de Inventário                         #L".
+EST005.CBL:440:              10 filler           pic x(w78-tltmen-n3)     value "I-Digitação de Inventário                         #M".
+
+Menus com literal "Importação de Digitação de Inventário" duplicada nas seguintes declarações:
+LFI005.CBL:606:              10 filler           pic x(w78-tltmen-n3)     value "M-Importação de Digitação de Inventário           #L".
+EST005.CBL:442:              10 filler           pic x(w78-tltmen-n3)     value "H-Importação de Digitação de Inventário           #M".
+
+Menus com literal "Eliminação de Movimentos de Caixa" duplicada nas seguintes declarações:
+LFI005.CBL:712:              10 filler           pic x(w78-tltmen-n3)     value "C-Eliminação de Movimentos de Caixa               #R".
+FIN005.CBL:559:              10 filler           pic x(w78-tltmen-n3)     value "C-Eliminação de Movimentos de Caixa               #R".
+CTB005.CBL:604:              10 filler           pic x(w78-tltmen-n3)     value "C-Eliminação de Movimentos de Caixa               #R".
+AUE005.CBL:421:              10 filler           pic x(w78-tltmen-n3)     value "C-Eliminação de Movimentos de Caixa               #R".
+
+Menus com literal "Remontagem de Saldos do Caixa" duplicada nas seguintes declarações:
+LFI005.CBL:717:              10 filler           pic x(w78-tltmen-n3)     value "S-Remontagem de Saldos do Caixa                   #R".
+FIN005.CBL:561:              10 filler           pic x(w78-tltmen-n3)     value "S-Remontagem de Saldos do Caixa                   #R".
+CTB005.CBL:608:              10 filler           pic x(w78-tltmen-n3)     value "S-Remontagem de Saldos do Caixa                   #R".
+AUE005.CBL:422:              10 filler           pic x(w78-tltmen-n3)     value "S-Remontagem de Saldos do Caixa                   #R".
+
+Menus com literal "Exportação de Clientes/Fornecedores" duplicada nas seguintes declarações:
+LFI005.CBL:736:              10 filler           pic x(w78-tltmen-n3)     value "C-Exportação de Clientes/Fornecedores             #R".
+FIN005.CBL:588:              10 filler           pic x(w78-tltmen-n3)     value "C-Exportação de Clientes/Fornecedores             #R".
+COM005.CBL:502:              10 filler           pic x(w78-tltmen-n3)     value "C-Exportação de Clientes/Fornecedores             #R".
+
+Menus com literal "Exportação de Produtos" duplicada nas seguintes declarações:
+LFI005.CBL:737:              10 filler           pic x(w78-tltmen-n3)     value "P-Exportação de Produtos                          #R".
+COM005.CBL:503:              10 filler           pic x(w78-tltmen-n3)     value "P-Exportação de Produtos                          #R".
+
+Menus com literal "Importação de XML NF-e/CT-e" duplicada nas seguintes declarações:
+LFI005.CBL:745:              10 filler           pic x(w78-tltmen-n3)     value "N-Importação de XML NF-e/CT-e                     #R".
+FAT005.CBL:787:              10 filler           pic x(w78-tltmen-n3)     value "N-Importação de XML NF-e/CT-e                     #R".
+
+Menus com literal "Geração de Arquivo LCDPR" duplicada nas seguintes declarações:
+LFI005.CBL:772:              10 filler           pic x(w78-tltmen-n3)     value "U-Geração de Arquivo LCDPR                        #R".
+CTB005.CBL:571:              10 filler           pic x(w78-tltmen-n3)     value "U-Geração de Arquivo LCDPR                        #R".
+
+Menus com literal "Geração de Arquivos IN nº 86/01" duplicada nas seguintes declarações:
+LFI005.CBL:775:              10 filler           pic x(w78-tltmen-n3)     value "G-Geração de Arquivos IN nº 86/01                 #R".
+CTB005.CBL:567:              10 filler           pic x(w78-tltmen-n3)     value "G-Geração de Arquivos IN nº 86/01                 #R".
+
+Menus com literal "Termo de Abertura" duplicada nas seguintes declarações:
+GPA005.CBL:379:              10 filler           pic x(w78-tltmen-n3)     value "A-Termo de Abertura                               #L".
+GPA005.CBL:398:              10 filler           pic x(w78-tltmen-n3)     value "A-Termo de Abertura                               #L".
+FIN005.CBL:475:              10 filler           pic x(w78-tltmen-n3)     value "A-Termo de Abertura                               #L".
+FIN005.CBL:482:              10 filler           pic x(w78-tltmen-n3)     value "A-Termo de Abertura                               #L".
+FIN005.CBL:495:              10 filler           pic x(w78-tltmen-n3)     value "A-Termo de Abertura                               #L".
+EST005.CBL:402:              10 filler           pic x(w78-tltmen-n3)     value "A-Termo de Abertura                               #L".
+EST005.CBL:447:              10 filler           pic x(w78-tltmen-n3)     value "B-Termo de Abertura                               #L".
+CTB005.CBL:475:              10 filler           pic x(w78-tltmen-n3)     value "A-Termo de Abertura                               #L".
+CTB005.CBL:547:              10 filler           pic x(w78-tltmen-n3)     value "A-Termo de Abertura                               #L".
+CTB005.CBL:612:              10 filler           pic x(w78-tltmen-n3)     value "A-Termo de Abertura                               #L".
+WTMENCXA.CPY:26:              10 filler           pic x(w78-tltmen-n3)     value "N-Termo de Abertura                               #L".
+
+Menus com literal "Termo de Encerramento" duplicada nas seguintes declarações:
+GPA005.CBL:380:              10 filler           pic x(w78-tltmen-n3)     value "E-Termo de Encerramento                           #L".
+GPA005.CBL:399:              10 filler           pic x(w78-tltmen-n3)     value "E-Termo de Encerramento                           #L".
+FIN005.CBL:476:              10 filler           pic x(w78-tltmen-n3)     value "E-Termo de Encerramento                           #L".
+FIN005.CBL:483:              10 filler           pic x(w78-tltmen-n3)     value "E-Termo de Encerramento                           #L".
+FIN005.CBL:496:              10 filler           pic x(w78-tltmen-n3)     value "E-Termo de Encerramento                           #L".
+EST005.CBL:403:              10 filler           pic x(w78-tltmen-n3)     value "E-Termo de Encerramento                           #L".
+EST005.CBL:448:              10 filler           pic x(w78-tltmen-n3)     value "E-Termo de Encerramento                           #L".
+CTB005.CBL:476:              10 filler           pic x(w78-tltmen-n3)     value "E-Termo de Encerramento                           #L".
+CTB005.CBL:548:              10 filler           pic x(w78-tltmen-n3)     value "E-Termo de Encerramento                           #L".
+CTB005.CBL:613:              10 filler           pic x(w78-tltmen-n3)     value "E-Termo de Encerramento                           #L".
+WTMENCXA.CPY:27:              10 filler           pic x(w78-tltmen-n3)     value "O-Termo de Encerramento                           #L".
+
+Menus com literal "Teste de Alinhamento" duplicada nas seguintes declarações:
+GPA005.CBL:418:              10 filler           pic x(w78-tltmen-n3)     value "T-Teste de Alinhamento                            #L".
+FPA005.CBL:799:              10 filler           pic x(w78-tltmen-n3)     value "T-Teste de Alinhamento                            #L".
+
+Menus com literal "Gera Arquivos IN nº 86/01" duplicada nas seguintes declarações:
+GPA005.CBL:426:              10 filler           pic x(w78-tltmen-n3)     value "G-Gera Arquivos IN nº 86/01                       #R".
+EST005.CBL:581:              10 filler           pic x(w78-tltmen-n3)     value "G-Gera Arquivos IN nº 86/01                       #R".
+
+Menus com literal "Alteração Geral de Centros de Custo" duplicada nas seguintes declarações:
+GPA005.CBL:451:              10 filler           pic x(w78-tltmen-n3)     value "A-Alteração Geral de Centros de Custo             #R".
+CTB005.CBL:623:              10 filler           pic x(w78-tltmen-n3)     value "A-Alteração Geral de Centros de Custo             #R".
+
+Menus com literal "Geração de Arquivos para TCE/RS" duplicada nas seguintes declarações:
+GPA005.CBL:454:              10 filler           pic x(w78-tltmen-n3)     value "G-Geração de Arquivos para TCE/RS                 #R".
+CTB005.CBL:601:              10 filler           pic x(w78-tltmen-n3)     value "G-Geração de Arquivos para TCE/RS                 #R".
+
+Menus com literal "Inclusão de Contrato" duplicada nas seguintes declarações:
+GCO005.CBL:351:              10 filler           pic x(w78-tltmen-n3)     value "I-Inclusão de Contrato                            #M".
+CEX005.CBL:369:              10 filler           pic x(w78-tltmen-n3)     value "I-Inclusão de Contrato                            #M".
+
+Menus com literal "Alteração de Contrato" duplicada nas seguintes declarações:
+GCO005.CBL:352:              10 filler           pic x(w78-tltmen-n3)     value "A-Alteração de Contrato                           #M".
+CEX005.CBL:370:              10 filler           pic x(w78-tltmen-n3)     value "A-Alteração de Contrato                           #M".
+
+Menus com literal "Consulta de Contrato" duplicada nas seguintes declarações:
+GCO005.CBL:353:              10 filler           pic x(w78-tltmen-n3)     value "C-Consulta de Contrato                            #M".
+CEX005.CBL:371:              10 filler           pic x(w78-tltmen-n3)     value "C-Consulta de Contrato                            #M".
+
+Menus com literal "Exclusão de Contrato" duplicada nas seguintes declarações:
+GCO005.CBL:354:              10 filler           pic x(w78-tltmen-n3)     value "E-Exclusão de Contrato                            #M".
+CEX005.CBL:372:              10 filler           pic x(w78-tltmen-n3)     value "E-Exclusão de Contrato                            #M".
+
+Menus com literal "Insumos Agrupados" duplicada nas seguintes declarações:
+GIN005.CBL:397:              10 filler           pic x(w78-tltmen-n3)     value "U-Insumos Agrupados                               #M".
+COM005.CBL:430:              10 filler           pic x(w78-tltmen-n3)     value "U-Insumos Agrupados                               #M".
+
+Menus com literal "Posição dos Pedidos" duplicada nas seguintes declarações:
+GIN005.CBL:469:              10 filler           pic x(w78-tltmen-n3)     value "P-Posição dos Pedidos                             #L".
+WTMENLPE.CPY:24:              10 filler           pic x(w78-tltmen-n3)     value "P-Posição dos Pedidos                             #L".
+
+Menus com literal "Listagem de Entregas por Semana" duplicada nas seguintes declarações:
+GIN005.CBL:494:              10 filler           pic x(w78-tltmen-n3)     value "T-Listagem de Entregas por Semana                 #L".
+FAT005.CBL:585:              10 filler           pic x(w78-tltmen-n3)     value "T-Listagem de Entregas por Semana                 #L".
+
+Menus com literal "Análise de Pedidos em Carteira" duplicada nas seguintes declarações:
+GIN005.CBL:495:              10 filler           pic x(w78-tltmen-n3)     value "P-Análise de Pedidos em Carteira                  #L".
+FAT005.CBL:586:              10 filler           pic x(w78-tltmen-n3)     value "K-Análise de Pedidos em Carteira                  #L".
+
+Menus com literal "Listagem de Romaneio de Embarque" duplicada nas seguintes declarações:
+GIN005.CBL:561:              10 filler           pic x(w78-tltmen-n3)     value "B-Listagem de Romaneio de Embarque                #L".
+GIN005.CBL:666:              10 filler           pic x(w78-tltmen-n3)     value "G-Listagem de Romaneio de Embarque                #L".
+
+Menus com literal "Cálculo de Movimentos de Produção" duplicada nas seguintes declarações:
+GIN005.CBL:616:              10 filler           pic x(w78-tltmen-n3)     value "P-Cálculo de Movimentos de Produção               #R".
+EST005.CBL:624:              10 filler           pic x(w78-tltmen-n3)     value "P-Cálculo de Movimentos de Produção               #R".
+
+Menus com literal "Emissão da Fatura" duplicada nas seguintes declarações:
+FTR005.CBL:396:              10 filler           pic x(w78-tltmen-n3)     value "E-Emissão da Fatura                               #R".
+AUE005.CBL:394:              10 filler           pic x(w78-tltmen-n3)     value "N-Emissão da Fatura                               #R".
+
+Menus com literal "Integrações Disponíveis" duplicada nas seguintes declarações:
+FTR005.CBL:512:              10 filler           pic x(w78-tltmen-n3)     value "D-Integrações Disponíveis                         #R".
+FAT005.CBL:788:              10 filler           pic x(w78-tltmen-n3)     value "X-Integrações Disponíveis                         #R".
+
+Menus com literal "Equivalências de Códigos de Produto" duplicada nas seguintes declarações:
+FTR005.CBL:517:              10 filler           pic x(w78-tltmen-n3)     value "P-Equivalências de Códigos de Produto             #C".
+FTR005.CBL:538:              10 filler           pic x(w78-tltmen-n3)     value "P-Equivalências de Códigos de Produto             #C".
+FTR005.CBL:548:              10 filler           pic x(w78-tltmen-n3)     value "P-Equivalências de Códigos de Produto             #C".
+FTR005.CBL:563:              10 filler           pic x(w78-tltmen-n3)     value "P-Equivalências de Códigos de Produto             #C".
+
+Menus com literal "Exportação de Pedidos" duplicada nas seguintes declarações:
+FTR005.CBL:518:              10 filler           pic x(w78-tltmen-n3)     value "E-Exportação de Pedidos                           #R".
+FTR005.CBL:539:              10 filler           pic x(w78-tltmen-n3)     value "E-Exportação de Pedidos                           #R".
+FTR005.CBL:551:              10 filler           pic x(w78-tltmen-n3)     value "E-Exportação de Pedidos                           #R".
+FTR005.CBL:564:              10 filler           pic x(w78-tltmen-n3)     value "E-Exportação de Pedidos                           #R".
+FTR005.CBL:570:              10 filler           pic x(w78-tltmen-n3)     value "E-Exportação de Pedidos                           #R".
+
+Menus com literal "Importação de Pedidos" duplicada nas seguintes declarações:
+FTR005.CBL:519:              10 filler           pic x(w78-tltmen-n3)     value "I-Importação de Pedidos                           #R".
+FTR005.CBL:540:              10 filler           pic x(w78-tltmen-n3)     value "I-Importação de Pedidos                           #M".
+FTR005.CBL:550:              10 filler           pic x(w78-tltmen-n3)     value "I-Importação de Pedidos                           #M".
+FTR005.CBL:568:              10 filler           pic x(w78-tltmen-n3)     value "I-Importação de Pedidos                           #M".
+FTR005.CBL:586:              10 filler           pic x(w78-tltmen-n3)     value "I-Importação de Pedidos                           #M".
+FAT005.CBL:851:              10 filler           pic x(w78-tltmen-n3)     value "I-Importação de Pedidos                           #M".
+
+Menus com literal "Monitoramento de Diretório" duplicada nas seguintes declarações:
+FTR005.CBL:526:              10 filler           pic x(w78-tltmen-n3)     value "K-Monitoramento de Diretório                      #M".
+FTR005.CBL:535:              10 filler           pic x(w78-tltmen-n3)     value "K-Monitoramento de Diretório                      #M".
+FTR005.CBL:545:              10 filler           pic x(w78-tltmen-n3)     value "K-Monitoramento de Diretório                      #M".
+FTR005.CBL:581:              10 filler           pic x(w78-tltmen-n3)     value "C-Monitoramento de Diretório                      #M".
+FTR005.CBL:589:              10 filler           pic x(w78-tltmen-n3)     value "M-Monitoramento de Diretório                      #M".
+
+Menus com literal "Equivalências de Unidades de Medida" duplicada nas seguintes declarações:
+FTR005.CBL:542:              10 filler           pic x(w78-tltmen-n3)     value "U-Equivalências de Unidades de Medida             #C".
+FTR005.CBL:549:              10 filler           pic x(w78-tltmen-n3)     value "U-Equivalências de Unidades de Medida             #C".
+FTR005.CBL:573:              10 filler           pic x(w78-tltmen-n3)     value "U-Equivalências de Unidades de Medida             #C".
+
+Menus com literal "Listagem de Arquivo de Importação" duplicada nas seguintes declarações:
+FTR005.CBL:552:              10 filler           pic x(w78-tltmen-n3)     value "L-Listagem de Arquivo de Importação               #L".
+FTR005.CBL:572:              10 filler           pic x(w78-tltmen-n3)     value "L-Listagem de Arquivo de Importação               #L".
+
+Menus com literal "Validação dos Arquivos" duplicada nas seguintes declarações:
+FTR005.CBL:587:              10 filler           pic x(w78-tltmen-n3)     value "V-Validação dos Arquivos                          #R".
+FAT005.CBL:852:              10 filler           pic x(w78-tltmen-n3)     value "V-Validação dos Arquivos                          #R".
+
+Menus com literal "Listagem de Eventos" duplicada nas seguintes declarações:
+FPA005.CBL:417:              10 filler           pic x(w78-tltmen-n3)     value "L-Listagem de Eventos                             #L".
+FPA005.CBL:791:              10 filler           pic x(w78-tltmen-n3)     value "R-Listagem de Eventos                             #L".
+
+Menus com literal "Importação de Movimentos" duplicada nas seguintes declarações:
+FPA005.CBL:459:              10 filler           pic x(w78-tltmen-n3)     value "V-Importação de Movimentos                        #M".
+WTMENCXA.CPY:28:              10 filler           pic x(w78-tltmen-n3)     value "P-Importação de Movimentos                        #R".
+
+Menus com literal "Consulta de Alteração Salarial" duplicada nas seguintes declarações:
+FPA005.CBL:511:              10 filler           pic x(w78-tltmen-n3)     value "D-Consulta de Alteração Salarial                  #R".
+FPA005.CBL:518:              10 filler           pic x(w78-tltmen-n3)     value "D-Consulta de Alteração Salarial                  #R".
+
+Menus com literal "Consulta de Notas" duplicada nas seguintes declarações:
+FPA005.CBL:531:              10 filler           pic x(w78-tltmen-n3)     value "C-Consulta de Notas                               #M".
+WTMENNOT.CPY:15:              10 filler           pic x(w78-tltmen-n3)     value "C-Consulta de Notas                               #M".
+
+Menus com literal "Digitação de Etiquetas" duplicada nas seguintes declarações:
+FPA005.CBL:797:              10 filler           pic x(w78-tltmen-n3)     value "D-Digitação de Etiquetas                          #L".
+EST005.CBL:428:              10 filler           pic x(w78-tltmen-n3)     value "G-Digitação de Etiquetas                          #L".
+
+Menus com literal "Recálculo de Bases" duplicada nas seguintes declarações:
+FPA005.CBL:872:              10 filler           pic x(w78-tltmen-n3)     value "R-Recálculo de Bases                              #R".
+FPA005.CBL:905:              10 filler           pic x(w78-tltmen-n3)     value "R-Recálculo de Bases                              #R".
+
+Menus com literal "Consulta de Retorno do Lote" duplicada nas seguintes declarações:
+FPA005.CBL:890:              10 filler           pic x(w78-tltmen-n3)     value "C-Consulta de Retorno do Lote                     #R".
+FPA005.CBL:923:              10 filler           pic x(w78-tltmen-n3)     value "C-Consulta de Retorno do Lote                     #R".
+
+Menus com literal "Gerenciador de Envio do eSocial" duplicada nas seguintes declarações:
+FPA005.CBL:891:              10 filler           pic x(w78-tltmen-n3)     value "V-Gerenciador de Envio do eSocial                 #R".
+FPA005.CBL:913:              10 filler           pic x(w78-tltmen-n3)     value "V-Gerenciador de Envio do eSocial                 #R".
+
+Menus com literal "Relatório de Totalizadores" duplicada nas seguintes declarações:
+FPA005.CBL:893:              10 filler           pic x(w78-tltmen-n3)     value "T-Relatório de Totalizadores                      #L".
+FPA005.CBL:918:              10 filler           pic x(w78-tltmen-n3)     value "T-Relatório de Totalizadores                      #L".
+
+Menus com literal "Geração de Evento S-1299" duplicada nas seguintes declarações:
+FPA005.CBL:894:              10 filler           pic x(w78-tltmen-n3)     value "M-Geração de Evento S-1299                        #R".
+FPA005.CBL:925:              10 filler           pic x(w78-tltmen-n3)     value "M-Geração de Evento S-1299                        #R".
+
+Menus com literal "Relatório de Conferência do eSocial" duplicada nas seguintes declarações:
+FPA005.CBL:897:              10 filler           pic x(w78-tltmen-n3)     value "O-Relatório de Conferência do eSocial             #L".
+FPA005.CBL:919:              10 filler           pic x(w78-tltmen-n3)     value "O-Relatório de Conferência do eSocial             #L".
+
+Menus com literal "Gestão de Folhas do eSocial" duplicada nas seguintes declarações:
+FPA005.CBL:898:              10 filler           pic x(w78-tltmen-n3)     value "P-Gestão de Folhas do eSocial                     #R".
+FPA005.CBL:912:              10 filler           pic x(w78-tltmen-n3)     value "P-Gestão de Folhas do eSocial                     #R".
+
+Menus com literal "Painel de Gestão do eSocial" duplicada nas seguintes declarações:
+FPA005.CBL:899:              10 filler           pic x(w78-tltmen-n3)     value "Q-Painel de Gestão do eSocial                     #R".
+FPA005.CBL:911:              10 filler           pic x(w78-tltmen-n3)     value "Q-Painel de Gestão do eSocial                     #R".
+
+Menus com literal "Consulta Simplificada do Diário" duplicada nas seguintes declarações:
+FIN005.CBL:477:              10 filler           pic x(w78-tltmen-n3)     value "D-Consulta Simplificada do Diário                 #L".
+CTB005.CBL:513:              10 filler           pic x(w78-tltmen-n3)     value "D-Consulta Simplificada do Diário                 #L".
+
+Menus com literal "Listagem do Diário" duplicada nas seguintes declarações:
+FIN005.CBL:478:              10 filler           pic x(w78-tltmen-n3)     value "L-Listagem do Diário                              #L".
+CTB005.CBL:514:              10 filler           pic x(w78-tltmen-n3)     value "L-Listagem do Diário                              #L".
+
+Menus com literal "Importação/Digitação de Extrato" duplicada nas seguintes declarações:
+FIN005.CBL:500:              10 filler           pic x(w78-tltmen-n3)     value "I-Importação/Digitação de Extrato                 #R".
+CTB005.CBL:454:              10 filler           pic x(w78-tltmen-n3)     value "I-Importação/Digitação de Extrato                 #R".
+
+Menus com literal "Conciliação Bancária" duplicada nas seguintes declarações:
+FIN005.CBL:501:              10 filler           pic x(w78-tltmen-n3)     value "C-Conciliação Bancária                            #R".
+CTB005.CBL:456:              10 filler           pic x(w78-tltmen-n3)     value "C-Conciliação Bancária                            #R".
+
+Menus com literal "Configuração do Extrato" duplicada nas seguintes declarações:
+FIN005.CBL:502:              10 filler           pic x(w78-tltmen-n3)     value "M-Configuração do Extrato                         #C".
+CTB005.CBL:457:              10 filler           pic x(w78-tltmen-n3)     value "M-Configuração do Extrato                         #C".
+
+Menus com literal "Listagem de Análise ABC" duplicada nas seguintes declarações:
+FIN005.CBL:531:              10 filler           pic x(w78-tltmen-n3)     value "L-Listagem de Análise ABC                         #L".
+EST005.CBL:511:              10 filler           pic x(w78-tltmen-n3)     value "L-Listagem de Análise ABC                         #L".
+
+Menus com literal "Gráfico de Análise ABC" duplicada nas seguintes declarações:
+FIN005.CBL:532:              10 filler           pic x(w78-tltmen-n3)     value "G-Gráfico de Análise ABC                          #L".
+EST005.CBL:512:              10 filler           pic x(w78-tltmen-n3)     value "G-Gráfico de Análise ABC                          #L".
+
+Menus com literal "Listagem de Contas" duplicada nas seguintes declarações:
+FIN005.CBL:607:              10 filler           pic x(w78-tltmen-n3)     value "L-Listagem de Contas                              #L".
+CTB005.CBL:385:              10 filler           pic x(w78-tltmen-n3)     value "L-Listagem de Contas                              #L".
+
+Menus com literal "Limpar Histórico de SSCC (FAT)" duplicada nas seguintes declarações:
+FAT005.CBL:464:              10 filler           pic x(w78-tltmen-n3)     value "H-Limpar Histórico de SSCC (FAT)                  #R".
+FAT005.CBL:796:              10 filler           pic x(w78-tltmen-n3)     value "H-Limpar Histórico de SSCC (FAT)                  #R".
+
+Menus com literal "Relatório de Ganhos/Perdas" duplicada nas seguintes declarações:
+FAT005.CBL:494:              10 filler           pic x(w78-tltmen-n3)     value "R-Relatório de Ganhos/Perdas                      #L".
+FAT005.CBL:506:              10 filler           pic x(w78-tltmen-n3)     value "R-Relatório de Ganhos/Perdas                      #L".
+
+Menus com literal "Atualiza Dados de Entrega" duplicada nas seguintes declarações:
+FAT005.CBL:543:              10 filler           pic x(w78-tltmen-n3)     value "A-Atualiza Dados de Entrega                       #R".
+COM005.CBL:495:              10 filler           pic x(w78-tltmen-n3)     value "T-Atualiza Dados de Entrega                       #R".
+
+Menus com literal "Listagem de Programação" duplicada nas seguintes declarações:
+FAT005.CBL:572:              10 filler           pic x(w78-tltmen-n3)     value "L-Listagem de Programação                         #L".
+FAT005.CBL:611:              10 filler           pic x(w78-tltmen-n3)     value "L-Listagem de Programação                         #L".
+
+Menus com literal "Manutenção de Metas de Venda" duplicada nas seguintes declarações:
+FAT005.CBL:669:              10 filler           pic x(w78-tltmen-n3)     value "M-Manutenção de Metas de Venda                    #M".
+AUE005.CBL:480:              10 filler           pic x(w78-tltmen-n3)     value "M-Manutenção de Metas de Venda                    #C".
+
+Menus com literal "Consulta de Metas de Venda" duplicada nas seguintes declarações:
+FAT005.CBL:670:              10 filler           pic x(w78-tltmen-n3)     value "C-Consulta de Metas de Venda                      #M".
+AUE005.CBL:481:              10 filler           pic x(w78-tltmen-n3)     value "C-Consulta de Metas de Venda                      #C".
+
+Menus com literal "Exclusão de Metas de Venda" duplicada nas seguintes declarações:
+FAT005.CBL:671:              10 filler           pic x(w78-tltmen-n3)     value "E-Exclusão de Metas de Venda                      #M".
+AUE005.CBL:482:              10 filler           pic x(w78-tltmen-n3)     value "E-Exclusão de Metas de Venda                      #C".
+
+Menus com literal "Parâmetros de Metas de Venda" duplicada nas seguintes declarações:
+FAT005.CBL:672:              10 filler           pic x(w78-tltmen-n3)     value "P-Parâmetros de Metas de Venda                    #R".
+AUE005.CBL:483:              10 filler           pic x(w78-tltmen-n3)     value "P-Parâmetros de Metas de Venda                    #C".
+
+Menus com literal "Previsto X Realizado por Representante" duplicada nas seguintes declarações:
+FAT005.CBL:674:              10 filler           pic x(w78-tltmen-n3)     value "R-Previsto X Realizado por Representante          #L".
+AUE005.CBL:484:              10 filler           pic x(w78-tltmen-n3)     value "R-Previsto X Realizado por Representante          #L".
+
+Menus com literal "Integração Contábil" duplicada nas seguintes declarações:
+EST005.CBL:459:              10 filler           pic x(w78-tltmen-n3)     value "I-Integração Contábil                             #R".
+WTMENCXA.CPY:34:              10 filler           pic x(w78-tltmen-n3)     value "T-Integração Contábil                             #R".
+
+Menus com literal "Sugestão de Compra com Lead Time" duplicada nas seguintes declarações:
+EST005.CBL:507:              10 filler           pic x(w78-tltmen-n3)     value "T-Sugestão de Compra com Lead Time                #M".
+COM005.CBL:428:              10 filler           pic x(w78-tltmen-n3)     value "T-Sugestão de Compra com Lead Time                #M".
+
+Menus com literal "Listagem de Balancete de Movimentos" duplicada nas seguintes declarações:
+EST005.CBL:536:              10 filler           pic x(w78-tltmen-n3)     value "M-Listagem de Balancete de Movimentos             #L".
+EST005.CBL:633:              10 filler           pic x(w78-tltmen-n3)     value "B-Listagem de Balancete de Movimentos             #L".
+
+Menus com literal "Eliminação de Requisições" duplicada nas seguintes declarações:
+EST005.CBL:639:              10 filler           pic x(w78-tltmen-n3)     value "E-Eliminação de Requisições                       #R".
+COM005.CBL:516:              10 filler           pic x(w78-tltmen-n3)     value "E-Eliminação de Requisições                       #R".
+
+Menus com literal "Atualização de Requisições" duplicada nas seguintes declarações:
+EST005.CBL:640:              10 filler           pic x(w78-tltmen-n3)     value "A-Atualização de Requisições                      #R".
+COM005.CBL:517:              10 filler           pic x(w78-tltmen-n3)     value "A-Atualização de Requisições                      #R".
+
+Menus com literal "Listagem de Lançamentos Contábeis" duplicada nas seguintes declarações:
+CTB005.CBL:424:              10 filler           pic x(w78-tltmen-n3)     value "L-Listagem de Lançamentos Contábeis               #L".
+AUE005.CBL:493:              10 filler           pic x(w78-tltmen-n3)     value "L-Listagem de Lançamentos Contábeis               #L".
+
+Menus com literal "Atualização de Contas Sintéticas" duplicada nas seguintes declarações:
+CTB005.CBL:465:              10 filler           pic x(w78-tltmen-n3)     value "A-Atualização de Contas Sintéticas                #R".
+CTB005.CBL:519:              10 filler           pic x(w78-tltmen-n3)     value "A-Atualização de Contas Sintéticas                #R".
+CTB005.CBL:527:              10 filler           pic x(w78-tltmen-n3)     value "A-Atualização de Contas Sintéticas                #R".
+
+Menus com literal "Cancelamento de Auditoria" duplicada nas seguintes declarações:
+CTB005.CBL:502:              10 filler           pic x(w78-tltmen-n3)     value "C-Cancelamento de Auditoria                       #R".
+WTMENCXA.CPY:32:              10 filler           pic x(w78-tltmen-n3)     value "Y-Cancelamento de Auditoria                       #R".
+
+Menus com literal "Pagamento de DARF's" duplicada nas seguintes declarações:
+CTB005.CBL:638:              10 filler           pic x(w78-tltmen-n3)     value "P-Pagamento de DARF's                             #R".
+CTB005.CBL:650:              10 filler           pic x(w78-tltmen-n3)     value "P-Pagamento de DARF's                             #R".
+
+Menus com literal "Emissão de DARF's" duplicada nas seguintes declarações:
+CTB005.CBL:639:              10 filler           pic x(w78-tltmen-n3)     value "N-Emissão de DARF's                               #R".
+CTB005.CBL:651:              10 filler           pic x(w78-tltmen-n3)     value "N-Emissão de DARF's                               #R".
+
+Menus com literal "Alteração de Preços por Percentual" duplicada nas seguintes declarações:
+COM005.CBL:507:              10 filler           pic x(w78-tltmen-n3)     value "A-Alteração de Preços por Percentual              #R".
+WTMENLPF.CPY:17:              10 filler           pic x(w78-tltmen-n3)     value "P-Alteração de Preços por Percentual              #R".
+WTMENLPC.CPY:17:              10 filler           pic x(w78-tltmen-n3)     value "P-Alteração de Preços por Percentual              #R".
+
+Menus com literal "Manutenção Consolidada" duplicada nas seguintes declarações:
+AUE005.CBL:377:              10 filler           pic x(w78-tltmen-n3)     value "M-Manutenção Consolidada                          #M".
+WTMENFOR.CPY:15:              10 filler           pic x(w78-tltmen-n3)     value "M-Manutenção Consolidada                          #C".
+
+Menus com literal "Pagamento de Serviços" duplicada nas seguintes declarações:
+AUE005.CBL:387:              10 filler           pic x(w78-tltmen-n3)     value "P-Pagamento de Serviços                           #R".
+WTMENRSE.CPY:18:              10 filler           pic x(w78-tltmen-n3)     value "P-Pagamento de Serviços                           #R".
+
+Menus com literal "Manutenção Consolidada de Itens" duplicada nas seguintes declarações:
+AUE005.CBL:391:              10 filler           pic x(w78-tltmen-n3)     value "K-Manutenção Consolidada de Itens                 #M".
+WTMENPED.CPY:14:              10 filler           pic x(w78-tltmen-n3)     value "Z-Manutenção Consolidada de Itens                 #M".
+WTMENNOC.CPY:24:              10 filler           pic x(w78-tltmen-n3)     value "K-Manutenção Consolidada de Itens                 #M".
+WTMENORC.CPY:22:              10 filler           pic x(w78-tltmen-n3)     value "K-Manutenção Consolidada de Itens                 #M".
+
+Menus com literal "Gerenciamento de Notas" duplicada nas seguintes declarações:
+WTMENRSE.CPY:21:              10 filler           pic x(w78-tltmen-n3)     value "B-Gerenciamento de Notas                          #M".
+WTMENMSE.CPY:23:              10 filler           pic x(w78-tltmen-n3)     value "B-Gerenciamento de Notas                          #M".
+
+Menus com literal "Manutenção Consolidada de Datas de Entrega" duplicada nas seguintes declarações:
+WTMENPED.CPY:26:              10 filler           pic x(w78-tltmen-n3)     value "O-Manutenção Consolidada de Datas de Entrega      #R".
+WTMENORC.CPY:34:              10 filler           pic x(w78-tltmen-n3)     value "G-Manutenção Consolidada de Datas de Entrega      #M".
+
+Menus com literal "Vinculação de Imagens/Anexos" duplicada nas seguintes declarações:
+WTMENPRO.CPY:35:              10 filler           pic x(w78-tltmen-n3)     value "Y-Vinculação de Imagens/Anexos                    #C".
+WTMENCAD.CPY:41:              10 filler           pic x(w78-tltmen-n3)     value "Q-Vinculação de Imagens/Anexos                    #R".
+
+Menus com literal "Manutenção Consolidada de Notas" duplicada nas seguintes declarações:
+WTMENMNF.CPY:13:              10 filler           pic x(w78-tltmen-n3)     value "M-Manutenção Consolidada de Notas                 #M".
+WTMENNOT.CPY:13:              10 filler           pic x(w78-tltmen-n3)     value "B-Manutenção Consolidada de Notas                 #M".
+
+Menus com literal "Atualização de Preços" duplicada nas seguintes declarações:
+WTMENGAB.CPY:19:              10 filler           pic x(w78-tltmen-n3)     value "G-Atualização de Preços                           #R".
+WTMENFOR.CPY:26:              10 filler           pic x(w78-tltmen-n3)     value "P-Atualização de Preços                           #R".
+
+Menus com literal "Listagem de Pedidos em Carteira" duplicada nas seguintes declarações:
+WTMENEVG.CPY:15:              10 filler           pic x(w78-tltmen-n3)     value "P-Listagem de Pedidos em Carteira                 #L".
+WTMENEVG.CPY:19:              10 filler           pic x(w78-tltmen-n3)     value "C-Listagem de Pedidos em Carteira                 #L".
+                                             Fim: 02:26:27,420 qua, 02/out/2024
+                                                                   00:00:03,384
+.
+------------------------------------------------------------------------------------------------------------------------
+Verifica se há divergência entre as configurações de Xmx nos executáveis distribuídos do SIGER® 
+Etapa envia e-mail: Sim 
+------------------------------------------------------------------------------------------------------------------------
+                                          Inicio: 02:26:27,571 qua, 02/out/2024
+[24.20a DESKTOP_X86] 'SIGER.exe4j' (768m), 'execucao.vmoptions' (512m) possuem configurações de Xmx diferentes
+[24.20a DESKTOP_X64] Xmx não definido: SIGER64.exe4j
+[24.20a DESKTOP_X64] 'execucao_x64.vmoptions' (640m), 'ri-siger' (768m) possuem configurações de Xmx diferentes
+[24.20a CLIENT_X64] Xmx não definido: SIGER_ThinClient64.exe4j
+[24.20a SERVER_X64] Xmx não definido: RechThinServer64Instance.exe4j
+[24.10e DESKTOP_X86] 'SIGER.exe4j' (768m), 'execucao.vmoptions' (512m) possuem configurações de Xmx diferentes
+[24.10e DESKTOP_X64] Xmx não definido: SIGER64.exe4j
+[24.10e CLIENT_X64] Xmx não definido: SIGER_ThinClient64.exe4j
+[24.10e SERVER_X64] Xmx não definido: RechThinServer64Instance.exe4j
+[24.10f DESKTOP_X86] 'SIGER.exe4j' (768m), 'execucao.vmoptions' (512m) possuem configurações de Xmx diferentes
+[24.10f DESKTOP_X64] Xmx não definido: SIGER64.exe4j
+[24.10f CLIENT_X64] Xmx não definido: SIGER_ThinClient64.exe4j
+[24.10f SERVER_X64] Xmx não definido: RechThinServer64Instance.exe4j
+[24.10g DESKTOP_X86] 'SIGER.exe4j' (768m), 'execucao.vmoptions' (512m) possuem configurações de Xmx diferentes
+[24.10g DESKTOP_X64] Xmx não definido: SIGER64.exe4j
+[24.10g CLIENT_X64] Xmx não definido: SIGER_ThinClient64.exe4j
+[24.10g SERVER_X64] Xmx não definido: RechThinServer64Instance.exe4j
+[23.20k DESKTOP_X86] 'SIGER.exe4j' (768m), 'execucao.vmoptions' (512m) possuem configurações de Xmx diferentes
+[23.20k DESKTOP_X64] Xmx não definido: SIGER64.exe4j
+[23.20k CLIENT_X64] Xmx não definido: SIGER_ThinClient64.exe4j
+[23.20k SERVER_X64] Xmx não definido: RechThinServer64Instance.exe4j
+[23.20l DESKTOP_X86] 'SIGER.exe4j' (768m), 'execucao.vmoptions' (512m) possuem configurações de Xmx diferentes
+[23.20l DESKTOP_X64] Xmx não definido: SIGER64.exe4j
+[23.20l CLIENT_X64] Xmx não definido: SIGER_ThinClient64.exe4j
+[23.20l SERVER_X64] Xmx não definido: RechThinServer64Instance.exe4j
+[23.10l DESKTOP_X86] 'SIGER.exe4j' (768m), 'execucao.vmoptions' (512m) possuem configurações de Xmx diferentes
+[23.10l DESKTOP_X64] Xmx não definido: SIGER64.exe4j
+[23.10l CLIENT_X86] 'SIGER_ThinClient.exe4j' (128m), 'execucao_client.vmoptions' (160m) possuem configurações de Xmx diferentes
+[23.10l CLIENT_X64] Xmx não definido: SIGER_ThinClient64.exe4j
+[23.10l SERVER_X64] Xmx não definido: RechThinServer64Instance.exe4j
+                                             Fim: 02:26:32,790 qua, 02/out/2024
+                                                                   00:00:05,219
+.
+------------------------------------------------------------------------------------------------------------------------
