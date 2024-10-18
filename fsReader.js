@@ -3,17 +3,13 @@ import { glob } from 'glob'
 import iconv from 'iconv-lite'
 
 // Função para processar os logs
-export const readLogs = async () => {
+export const readLogs = async (date) => {
   const list = []
 
-  const currentDate = new Date()
-  const year = currentDate.getFullYear()
-  const month = String(currentDate.getMonth() + 1).padStart(2, '0')
-  const day = String(currentDate.getDate()).padStart(2, '0')
-
   // Define o padrão do arquivo, ignorando a parte da hora/minutos
-  const pattern = `D:/DEV/NODE/log/vd${year}${month}${day}*.log`
+  const pattern = `D:/DEV/NODE/log/vd${date}*.log`
   let logFile = ''
+  let logId = 0
 
   try {
     const files = await glob(pattern, { nodir: true })
@@ -50,6 +46,7 @@ export const readLogs = async () => {
         // Quebra o bloco em linhas de logs
         const lines = block.split(/\r?\n/).filter(line => line.trim() != '')
 
+        logId = counter + 1
         let logTitle = ''
         let logSendEmail = false
         let logStartedAt = ''
@@ -58,6 +55,7 @@ export const readLogs = async () => {
         let logsList = []
         let lineCounter = 0
         let lastLine = false
+        let numRegs = 0
 
         lines.forEach((line, index) => {
           
@@ -78,10 +76,10 @@ export const readLogs = async () => {
           }
           else {
             if (line.trim().startsWith('Inicio:')) {
-              logStartedAt = line.substring(50, 79)
+              logStartedAt = line.substring(50, 62)
             }
             else if (line.trim().startsWith('Fim:')) {
-              logFinishedAt = line.substring(50, 79)
+              logFinishedAt = line.substring(50, 62)
               lastLine = true
             }
             else {
@@ -90,6 +88,7 @@ export const readLogs = async () => {
               }
               else {
                 logsList.push(line.trim())
+                numRegs++
               }
             }
           }
@@ -97,12 +96,14 @@ export const readLogs = async () => {
 
         // Adiciona o log salvo à lista de logs do dia
         list.push({
+          "id": logId,
           "title": logTitle,
           "sendEmail": logSendEmail,
           "logsList": logsList,
           "startedAt": logStartedAt,
           "finishedAt": logFinishedAt,
-          "Duration": logDuration
+          "duration": logDuration,
+          "numRegs": numRegs
         })
       })
 
