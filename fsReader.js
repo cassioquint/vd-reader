@@ -3,13 +3,14 @@ import { glob } from 'glob'
 import iconv from 'iconv-lite'
 
 // Função para processar os logs
-export const readLogs = async (date) => {
+export const readLogs = async (date = "") => {
   const list = []
 
   // Define o padrão do arquivo, ignorando a parte da hora/minutos
   const pattern = `D:/DEV/NODE/log/vd${date}*.log`
   let logFile = ''
   let logId = 0
+  let lineIndex = 0
 
   try {
     const files = await glob(pattern, { nodir: true })
@@ -39,25 +40,31 @@ export const readLogs = async (date) => {
       const logs = iconv.decode(data, 'windows-1252')
 
       // Quebra os logs em blocos de linha
-      const logBlocks = logs.split(/\.\s*\r?\n-{120}/).filter(bloco => bloco.trim() !== '')
+      const logBlocks = logs.split(/\.\s*\r?\n-{120}/)
 
       logBlocks.forEach((block, counter) => {
 
         // Quebra o bloco em linhas de logs
-        const lines = block.split(/\r?\n/).filter(line => line.trim() != '')
+        const lines = block.split(/\r?\n/)
 
         logId = counter + 1
         let logTitle = ''
+        let batName = ''
         let logSendEmail = false
         let logStartedAt = ''
         let logFinishedAt = ''
         let logDuration = ''
         let logsList = []
         let lineCounter = 0
+        let fileLine = 0
         let lastLine = false
         let numRegs = 0
 
         lines.forEach((line, index) => {
+
+          lineIndex++
+
+          if (line === '') return
           
           // Ignora as 3 primeiras linhas do primeiro bloco (cabeçalho do arquivo VD)
           if ((counter === 0 && index < 3) || line.startsWith('---------'))   {
@@ -68,7 +75,9 @@ export const readLogs = async (date) => {
           
           // A primeira linha do bloco sempre deverá ser o título
           if (lineCounter === 1) {
-            logTitle = line
+            logTitle = line.trim()
+            batName = extractBatName(logTitle)
+            fileLine = lineIndex
           }
           // A segunda linha sempre será a indicação de envio de e-mail
           else if (lineCounter === 2) {
@@ -94,15 +103,19 @@ export const readLogs = async (date) => {
           }
         })
 
+        if (logTitle === '') return
+
         // Adiciona o log salvo à lista de logs do dia
         list.push({
           "id": logId,
           "title": logTitle,
+          "bat": batName,
           "sendEmail": logSendEmail,
           "logsList": logsList,
           "startedAt": logStartedAt,
           "finishedAt": logFinishedAt,
           "duration": logDuration,
+          "fileLine": fileLine,
           "numRegs": numRegs
         })
       })
@@ -110,4 +123,14 @@ export const readLogs = async (date) => {
       resolve(list)
     })
   })
+
+  function extractBatName(title) {
+    const regex = /\(([^)]+)\)$/
+    const match = title.match(regex)
+    if (match) {
+      return match[1]
+    } else {
+      return null
+    }
+  }
 }

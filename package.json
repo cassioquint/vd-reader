@@ -2,6 +2,7 @@
   "type": "module",
   "main": "server.js",
   "dependencies": {
+    "child_process": "^1.0.2",
     "cors": "^2.8.5",
     "express": "^4.21.0",
     "glob": "^11.0.0",
