@@ -6,17 +6,28 @@ import iconv from 'iconv-lite'
 export const readLogs = async (date = "") => {
   const list = []
 
-  // Define o padrão do arquivo, ignorando a parte da hora/minutos
-  const pattern = `D:/DEV/NODE/log/vd${date}*.log`
+  // Define se está em ambiente de Produção (RECH) ou Homologação
+  let production = true
+
   let logFile = ''
   let logId = 0
   let lineIndex = 0
+
+  // Se estiver em ambiente de produção (RECH), utiliza a pasta de logs
+  let directory = production ? 'F:/TMP/LOG/' : 'D:/DEV/NODE/log/'
+
+  // Se recebeu uma data por parâmetro
+  let fileName = date ? `vd${date}*.log` : 'vd.log'
+
+  // Define o padrão do arquivo, ignorando a parte da hora/minutos
+  const pattern = directory + fileName
+  console.log(pattern)
 
   try {
     const files = await glob(pattern, { nodir: true })
 
     if (files.length === 0) {
-      console.log('Nenhum arquivo de log encontrado.')
+      //console.log('Nenhum arquivo de log encontrado.')
       return list
     }
     else {
@@ -65,14 +76,14 @@ export const readLogs = async (date = "") => {
           lineIndex++
 
           if (line === '') return
-          
+
           // Ignora as 3 primeiras linhas do primeiro bloco (cabeçalho do arquivo VD)
           if ((counter === 0 && index < 3) || line.startsWith('---------'))   {
             return
           }
 
           lineCounter++
-          
+
           // A primeira linha do bloco sempre deverá ser o título
           if (lineCounter === 1) {
             logTitle = line.trim()

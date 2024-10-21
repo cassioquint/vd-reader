@@ -19,6 +19,13 @@ app.get('/', async (req, res) => {
 
 app.get('/:date', async (req, res) => {
   const { date } = req.params
+
+  // Verifica se a data está no formato esperado (YYYY-MM-DD)
+  const datePattern = /^\d{4}-\d{2}-\d{2}$/;
+  if (!datePattern.test(date)) {
+    return res.status(400).json({ error: 'Invalid date format. Use YYYY-MM-DD' });
+  }
+
   const newDate = date.replace(/-/g, '')
   try {
     const logsList = await readLogs(newDate)
