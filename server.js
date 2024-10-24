@@ -7,6 +7,7 @@ const app = express()
 const port = 3000
 
 app.use(cors());
+app.use(express.json())
 
 app.get('/', async (req, res) => {
   try {
@@ -18,32 +19,41 @@ app.get('/', async (req, res) => {
 })
 
 app.get('/:date', async (req, res) => {
-  const { date } = req.params
+  const { date } = req.params;
 
   // Verifica se a data está no formato esperado (YYYY-MM-DD)
-  const datePattern = /^\d{4}-\d{2}-\d{2}$/;
-  if (!datePattern.test(date)) {
-    return res.status(400).json({ error: 'Invalid date format. Use YYYY-MM-DD' });
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) {
+    return res.status(400).json({ error: 'Invalid date format. Use YYYY-MM-DD' })
   }
 
-  const newDate = date.replace(/-/g, '')
+  const today = new Date();
+  const formattedToday = today.getFullYear() + '-' + 
+                         String(today.getMonth() + 1).padStart(2, '0') + '-' + 
+                         String(today.getDate()).padStart(2, '0');
+
+  // Se a data recebida for a data atual, limpa o campo de data
+  const formattedDate = (date === formattedToday) ? "" : date.replace(/-/g, '')
+  
   try {
-    const logsList = await readLogs(newDate)
+    const logsList = await readLogs(formattedDate)
     res.json(logsList)
   } catch (error) {
-    res.status(500).json({error: 'Error reading logs'})
+    res.status(500).json({ error: 'Error reading logs' })
   }
 })
 
-app.get('/line/:line', async (req, res) => {
-  const { line } = req.params
-  const logFilePath = 'D:/DEV/NODE/log/vd.log'
+app.post('/open-file', async (req, res) => {
+  const { lineNumber, fileName } = req.body
 
-  if (!line || isNaN(line)) {
+  if (!lineNumber || isNaN(lineNumber)) {
     return res.status(400).json({error: 'Invalid line number.'})
   }
 
-  const command = `code --goto ${logFilePath}:${line}:1`
+  if (!fileName) {
+    return res.status(400).json({ error: 'File name is required.' });
+  }
+
+  const command = `code --goto ${fileName}:${lineNumber}:1`
 
   exec(command, (error, stdout, stderr) => {
     if (error) {
