@@ -41,7 +41,7 @@ const processLogLines = (lines, logId, isFirstBlock, lineIndex) => {
     }
     // A segunda linha sempre será a indicação de envio de e-mail
     else if (lineCounter === 2) {
-      logSendEmail = line[20] === 'S';
+      logSendEmail = line[20] === 'S'
     }
     else {
       if (line.trim().startsWith('Inicio:')) {
@@ -90,7 +90,7 @@ const processLogBlocks = (logBlocks) => {
     const lines = block.split(/\r?\n/)
 
     // Verifica se é o primeiro bloco para ignorar as 3 primeiras linhas
-    const isFirstBlock = blockIndex === 0;
+    const isFirstBlock = blockIndex === 0
     const result = processLogLines(lines, logId, isFirstBlock, lineIndex)
     
     if (result) {
