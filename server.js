@@ -13,7 +13,7 @@ app.use(express.json())
 app.get('/', async (req, res) => {
   try {
     const logsList = await readLogs()
-    res.json(logsList)
+    res.status(200).json(logsList)
   } catch (error) {
     res.status(500).json({error: 'Error reading logs'})
   }
@@ -37,7 +37,7 @@ app.get('/:date', async (req, res) => {
   
   try {
     const logsList = await readLogs(formattedDate)
-    res.json(logsList)
+    res.status(200).json(logsList)
   } catch (error) {
     res.status(500).json({ error: 'Error reading logs' })
   }
@@ -46,11 +46,10 @@ app.get('/:date', async (req, res) => {
 app.get('/:prog/:date', async (req, res) => {
   const { prog, date } = req.params
 
-  const result = await searchMailLog(prog, date)
-
-  if (result) {
-    res.status(200).send(result)
-  } else {
+  try {
+    const result = await searchMailLog(prog, date)
+    res.status(200).json(result)
+  } catch (error) {
     res.status(404).send('Nenhuma linha correspondente encontrada.')
   }
 })
